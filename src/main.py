@@ -17,7 +17,7 @@ def set_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--device', default='1', type=str, help='device number')
     parser.add_argument('--model', default='MV_CLIP', type=str, help='the model name', choices=['MV_CLIP'])
-    parser.add_argument('--text_name', default='text_json_final', type=str, help='the text data folder name')
+    parser.add_argument('--text_name', default='text_json_id', type=str, help='the text data folder name')
     parser.add_argument('--simple_linear', default=False, type=bool, help='linear implementation choice')
     parser.add_argument('--num_train_epochs', default=10, type=int, help='number of train epoched')
     parser.add_argument('--train_batch_size', default=32, type=int, help='batch size in train phase')

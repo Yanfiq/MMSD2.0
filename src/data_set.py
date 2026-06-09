@@ -6,6 +6,7 @@ import json
 
 logger = logging.getLogger(__name__)
 WORKING_PATH="../data"
+DATA_FILE_NAME="dataset_translated.json"
 
 class MyDataset(Dataset):
     def __init__(self, mode, text_name, limit=None):
@@ -18,33 +19,24 @@ class MyDataset(Dataset):
     def load_data(self, mode, limit):
         cnt = 0
         data_set=dict()
-        if mode in ["train"]:
-            f1= open(os.path.join(WORKING_PATH, self.text_name ,mode+".json"),'r',encoding='utf-8')
+        data_file = os.path.join(WORKING_PATH, self.text_name, DATA_FILE_NAME)
+        with open(data_file, 'r', encoding='utf-8') as f1:
             datas = json.load(f1)
-            for data in datas:
-                if limit != None and cnt >= limit:
-                    break
 
-                image = data['image_id']
-                sentence = data['text']
-                label = data['label']
- 
-                if os.path.isfile(os.path.join(WORKING_PATH,"dataset_image",str(image)+".jpg")):
-                    data_set[int(image)]={"text":sentence, 'label': label}
-                    cnt += 1
-                    
-        
-        if mode in ["test","valid"]:
-            f1= open(os.path.join(WORKING_PATH, self.text_name ,mode+".json"),'r',encoding='utf-8')
-            datas = json.load(f1)
-            for data in datas:
-                image = data['image_id']
-                sentence = data['text']
-                label = data['label']
+        for data in datas:
+            if data.get('split') != mode:
+                continue
 
-                if os.path.isfile(os.path.join(WORKING_PATH,"dataset_image",str(image)+".jpg")):
-                    data_set[int(image)]={"text":sentence, 'label': label}
-                    cnt += 1
+            if limit != None and cnt >= limit:
+                break
+
+            image = data['image_id']
+            sentence = data['text_translated']
+            label = data['label']
+
+            if os.path.isfile(os.path.join(WORKING_PATH,"dataset_image",str(image)+".jpg")):
+                data_set[int(image)]={"text":sentence, 'label': label}
+                cnt += 1
         return data_set
 
 
