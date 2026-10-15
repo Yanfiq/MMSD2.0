@@ -73,7 +73,7 @@ def set_args():
     parser.add_argument('--test_batch_size', type=int, default=8, help='batch size for text phase')
     parser.add_argument('--model_path', type=str, default="../output_dir/MV_CLIP", help='save model dpath')
     parser.add_argument('--save_file', type=str, default="result.json", help='save result path')
-    parser.add_argument('--text_name', default='text_json_id', type=str, help='the text data folder name')
+    parser.add_argument('--text_name', default='text_json_final', type=str, help='the text data folder name')
     parser.add_argument('--layers', default=3, type=int, help='number of layers of transformers')
     parser.add_argument('--simple_linear', default=False, type=bool, help='linear implementation choice')
     return parser.parse_args()
