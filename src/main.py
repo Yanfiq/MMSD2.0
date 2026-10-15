@@ -1,4 +1,6 @@
 import os
+import subprocess
+import time
 # os.environ["CUDA_VISIBLE_DEVICES"] = '2'
 from model import MV_CLIP
 from train import train
@@ -39,6 +41,16 @@ def set_args():
     parser.add_argument('--output_dir', default='../output_dir/', type=str, help='the output path')
     parser.add_argument('--limit', default=None, type=int, help='the limited number of training examples')
     parser.add_argument('--seed', type=int, default=42, help='random seed')
+    parser.add_argument('--wait_for_gpu', action='store_true',
+                        help='wait until the selected GPU has enough free VRAM and is idle')
+    parser.add_argument('--min_free_vram_mb', type=int, default=12000,
+                        help='minimum free GPU memory required when --wait_for_gpu is used')
+    parser.add_argument('--max_gpu_utilization', type=int, default=10,
+                        help='maximum GPU utilization percentage considered idle')
+    parser.add_argument('--gpu_poll_interval', type=float, default=30.0,
+                        help='seconds between GPU availability checks')
+    parser.add_argument('--gpu_wait_timeout', type=float, default=0.0,
+                        help='maximum seconds to wait; 0 waits indefinitely')
     return parser.parse_args()
 
 
@@ -52,9 +64,77 @@ def seed_everything(seed=42):
     torch.backends.cudnn.deterministic = True
 
 
+def wait_for_gpu(device, min_free_vram_mb, max_utilization, poll_interval, timeout):
+    """Wait for two consecutive acceptable nvidia-smi readings."""
+    if int(device) < 0:
+        print("CPU mode selected; skipping the GPU availability check.", flush=True)
+        return
+    if min_free_vram_mb < 0:
+        raise ValueError("--min_free_vram_mb must be at least 0")
+    if not 0 <= max_utilization <= 100:
+        raise ValueError("--max_gpu_utilization must be between 0 and 100")
+    if poll_interval <= 0:
+        raise ValueError("--gpu_poll_interval must be greater than 0")
+    if timeout < 0:
+        raise ValueError("--gpu_wait_timeout must be at least 0")
+
+    command = [
+        "nvidia-smi",
+        f"--id={device}",
+        "--query-gpu=memory.free,utilization.gpu",
+        "--format=csv,noheader,nounits",
+    ]
+    started_at = time.monotonic()
+    acceptable_readings = 0
+
+    while True:
+        try:
+            result = subprocess.run(command, check=True, capture_output=True, text=True)
+            free_vram_mb, utilization = (
+                int(value.strip()) for value in result.stdout.strip().split(",")
+            )
+        except FileNotFoundError as exc:
+            raise RuntimeError(
+                "--wait_for_gpu requires nvidia-smi, but it was not found"
+            ) from exc
+        except (subprocess.CalledProcessError, ValueError) as exc:
+            details = getattr(exc, "stderr", "") or str(exc)
+            raise RuntimeError(f"Could not query GPU {device}: {details.strip()}") from exc
+
+        available = (
+            free_vram_mb >= min_free_vram_mb
+            and utilization <= max_utilization
+        )
+        acceptable_readings = acceptable_readings + 1 if available else 0
+        elapsed = time.monotonic() - started_at
+        print(
+            f"GPU {device}: {free_vram_mb} MiB free, {utilization}% utilized "
+            f"(need >= {min_free_vram_mb} MiB and <= {max_utilization}%)",
+            flush=True,
+        )
+
+        # Two readings prevent starting during a brief dip between other workloads.
+        if acceptable_readings >= 2:
+            print(f"GPU {device} is available; starting training.", flush=True)
+            return
+        if timeout and elapsed >= timeout:
+            raise TimeoutError(
+                f"GPU {device} did not become available within {timeout:g} seconds"
+            )
+        time.sleep(poll_interval)
+
+
 def main():
     args = set_args()
     os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+    if args.wait_for_gpu:
+        wait_for_gpu(
+            args.device,
+            args.min_free_vram_mb,
+            args.max_gpu_utilization,
+            args.gpu_poll_interval,
+            args.gpu_wait_timeout,
+        )
     os.environ["CUDA_VISIBLE_DEVICES"] = args.device
     device = torch.device("cuda" if torch.cuda.is_available() and int(args.device) >= 0 else "cpu")
 
