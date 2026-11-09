@@ -146,9 +146,6 @@ def main():
         tags=["mm"],
         config=vars(args),
     )
-    wandb.define_metric("epoch")
-    wandb.define_metric("train/*", step_metric="epoch")
-    wandb.define_metric("dev/*", step_metric="epoch")
     wandb.watch_called = False  
 
     train_data = MyDataset(mode='train', text_name=args.text_name, limit=None)
@@ -165,7 +162,6 @@ def main():
     wandb.watch(model, log="all")
 
     train(args, model, device, train_data, dev_data, test_data, processor)
-    wandb.finish()
 
 
 
