@@ -64,6 +64,14 @@ after training to flush uploads and close the run cleanly.
 The pinned W&B version in `requirements.txt` was updated from `0.13.3` to
 `0.22.3`.
 
+### Random seed
+
+When `--seed` is omitted, `main.py` generates a random 32-bit seed before
+initializing the experiment. The resolved seed is printed to the console and
+stored in both the W&B configuration and run summary, so the run can be
+reproduced later. Passing an explicit value, such as `--seed 42`, continues to
+use that value unchanged.
+
 ## Resulting training flow
 
 ```text

@@ -8,6 +8,7 @@ from data_set import MyDataset
 import torch
 import argparse
 import random
+import secrets
 import numpy as np
 from transformers import CLIPProcessor
 import wandb
@@ -40,7 +41,12 @@ def set_args():
     parser.add_argument('--dropout_rate', default=0.1, type=float, help='dropout rate')
     parser.add_argument('--output_dir', default='../output_dir/', type=str, help='the output path')
     parser.add_argument('--limit', default=None, type=int, help='the limited number of training examples')
-    parser.add_argument('--seed', type=int, default=42, help='random seed')
+    parser.add_argument(
+        '--seed',
+        type=int,
+        default=None,
+        help='random seed; when omitted, a random 32-bit seed is generated',
+    )
     parser.add_argument('--wait_for_gpu', action='store_true',
                         help='wait until the selected GPU has enough free VRAM and is idle')
     parser.add_argument('--min_free_vram_mb', type=int, default=12000,
@@ -54,7 +60,7 @@ def set_args():
     return parser.parse_args()
 
 
-def seed_everything(seed=42):
+def seed_everything(seed):
     random.seed(seed)
     os.environ['PYTHONHASHSEED'] = str(seed)
     np.random.seed(seed)
@@ -138,6 +144,9 @@ def main():
     os.environ["CUDA_VISIBLE_DEVICES"] = args.device
     device = torch.device("cuda" if torch.cuda.is_available() and int(args.device) >= 0 else "cpu")
 
+    if args.seed is None:
+        args.seed = secrets.randbits(32)
+    print(f"Using random seed: {args.seed}", flush=True)
     seed_everything(args.seed)
 
     wandb.init(
@@ -146,6 +155,7 @@ def main():
         tags=["mm"],
         config=vars(args),
     )
+    wandb.run.summary['seed'] = args.seed
     wandb.define_metric("epoch")
     wandb.define_metric("train/*", step_metric="epoch")
     wandb.define_metric("dev/*", step_metric="epoch")
