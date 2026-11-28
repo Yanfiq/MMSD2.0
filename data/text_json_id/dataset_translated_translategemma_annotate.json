@@ -1,0 +1,4202 @@
+[
+  {
+    "image_id": 817518874103054336,
+    "text": "arabs be having kids like .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Orang Arab sering memiliki banyak anak."
+  },
+  {
+    "image_id": 823313454731763713,
+    "text": "extremely blessed and excited to say i have verbally committed to further my academic and running career at limestone college !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sangat bersyukur dan senang untuk mengumumkan bahwa saya telah secara resmi menyetujui untuk melanjutkan studi dan karier lari saya di Limestone College!"
+  },
+  {
+    "image_id": 891284881283489793,
+    "text": "wait ... for ... it ... a foreigner in japan failed to do what they said they would do . fake contest . well played . ( really ? )",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tunggu dulu... seorang warga asing di Jepang gagal melakukan apa yang mereka janjikan. Kompetisi palsu. Permainan yang cerdas. (Benarkah?)"
+  },
+  {
+    "image_id": 822225990541778944,
+    "text": "swat makes a full page on <user> , with our latest location serving the # homeless . email info <user> . com to donate get involved",
+    "label": 0,
+    "split": "test",
+    "text_translated": "SWAT menampilkan halaman penuh tentang <user>, dengan lokasi terbaru kami melayani mereka yang tidak memiliki tempat tinggal. Kirim email ke info <user>.com untuk berdonasi atau terlibat."
+  },
+  {
+    "image_id": 821868879404118016,
+    "text": "taeyeon_ss new followed & liked lol",
+    "label": 0,
+    "split": "test",
+    "text_translated": "taeyeon_ss baru saja mengikuti dan menyukai beberapa postingan. Lucu sekali."
+  },
+  {
+    "image_id": 818241384884879361,
+    "text": "i rlly love florida",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat menyukai Florida."
+  },
+  {
+    "image_id": 820412091081359360,
+    "text": "captainamerica as an orc ? heck yeah ! meet kaptain orc",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kapten Amerika sebagai seorang orc? Tentu saja! Kenalan dengan Kaptain Orc."
+  },
+  {
+    "image_id": 822590185250717696,
+    "text": "tgif",
+    "label": 0,
+    "split": "test",
+    "text_translated": "selamat hari Jumat."
+  },
+  {
+    "image_id": 821507099817607168,
+    "text": "bonjour mes amis ! watching the cpcldr debate . 13 people on stage and not enough time for anybody to say anything of substance !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Halo teman-teman! Sedang menonton debat CPCldr. Ada 13 orang di atas panggung, tetapi sepertinya tidak ada cukup waktu bagi siapa pun untuk menyampaikan hal-hal yang berarti!"
+  },
+  {
+    "image_id": 818245233020284928,
+    "text": "looking good , <user> !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tampil bagus, <user>!"
+  },
+  {
+    "image_id": 821867046757695488,
+    "text": "please read this carefully ! we need to keep lexa and clexa alive , and it 's not to promote the show !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Harap baca ini dengan saksama! Kita perlu memastikan Lexa dan Clexa tetap ada, dan ini bukan untuk mempromosikan acara tersebut!"
+  },
+  {
+    "image_id": 820050414620045312,
+    "text": "lmao why do i find this so funny",
+    "label": 1,
+    "split": "test",
+    "text_translated": "tertawa ngakak, kenapa ya aku merasa ini sangat lucu."
+  },
+  {
+    "image_id": 692330929432432640,
+    "text": "available now ! link in the bio …",
+    "label": 0,
+    "split": "test",
+    "text_translated": "tersedia sekarang! tautan di bio…"
+  },
+  {
+    "image_id": 924449074568400896,
+    "text": "larries out here living the treat people with kindness life .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Orang-orang di sini menjalani kehidupan dengan memperlakukan orang lain dengan kebaikan."
+  },
+  {
+    "image_id": 822588963965825024,
+    "text": "meme magic",
+    "label": 1,
+    "split": "test",
+    "text_translated": "pesona meme."
+  },
+  {
+    "image_id": 861880758616674305,
+    "text": "does he know aliens don 't watch bollywood movies ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apakah dia tahu bahwa alien tidak menonton film Bollywood?"
+  },
+  {
+    "image_id": 822587335661547522,
+    "text": "obama supporters awaiting his arrival in ( a still rainy ) palm springs",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Para pendukung Obama menunggu kedatangannya di Palm Springs (yang masih diguyur hujan)."
+  },
+  {
+    "image_id": 716052895146319872,
+    "text": "so glad my husband works for a camera manufacturer . what 's a girl 's sleepover without spying boys ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Senang sekali suami saya bekerja di perusahaan yang memproduksi kamera. Apa jadinya acara tidur bersama teman-teman perempuan tanpa mengintip anak laki-laki?"
+  },
+  {
+    "image_id": 819326663918022658,
+    "text": "airpods = not the easiest things to work with , but our team is the best and we 're making progress ! we 'll keep ya posted !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "AirPods memang tidak selalu mudah untuk dikerjakan, tetapi tim kami adalah yang terbaik dan kami terus membuat kemajuan! Kami akan terus memberikan kabar terbaru."
+  },
+  {
+    "image_id": 916718765462753280,
+    "text": "breaking news : alphabet boyz chart confirmed lasvegas shooter acted alone !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Berita terkini: Alphabet Boyz telah mengonfirmasi peringkat mereka. Penembak di Las Vegas bertindak sendirian!"
+  },
+  {
+    "image_id": 834384947767103488,
+    "text": "backup on cloud is very imp these days ! ! what do you feel ? pic courtesy : glasbergen",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Cadangan data di cloud sangat penting saat ini! Apa pendapat Anda? (Gambar: glasbergen)"
+  },
+  {
+    "image_id": 706554384155447296,
+    "text": "when you say i love you to a person you hate ! ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika Anda mengatakan \"aku cinta kamu\" kepada seseorang yang Anda benci!"
+  },
+  {
+    "image_id": 710213642172686337,
+    "text": "thank god i never lose my self-irony < 3 # selfirony # lostmymind # losingmymind # insane yoursweetheart …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Syukurlah, saya tidak pernah kehilangan kemampuan untuk menertawakan diri sendiri. <3 #menertawakan diri sendiri #kehilangan akal #tergila-gila #kekasihmu…"
+  },
+  {
+    "image_id": 822594183324168193,
+    "text": "go wolfpack gymnastics # packpics get cinduh on the video board",
+    "label": 0,
+    "split": "test",
+    "text_translated": "tim senam Wolfpack, #foto tim, tampil di layar video."
+  },
+  {
+    "image_id": 816740210822303763,
+    "text": "follow to see what 's coming w / this new apparel brand that will say exactly what you 're thinking",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ikuti terus untuk melihat apa yang akan hadir dari merek pakaian baru ini, yang akan mengungkapkan apa yang sedang Anda pikirkan."
+  },
+  {
+    "image_id": 735822534994583553,
+    "text": "perfect wheat cutting weather",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Cuaca yang ideal untuk memanen gandum."
+  },
+  {
+    "image_id": 823316734740295681,
+    "text": "the packers / falcons game was a lot closer than the media is making it out to be ! ! ! ! period .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Pertandingan antara Packers dan Falcons jauh lebih ketat daripada yang digambarkan oleh media! Selesai."
+  },
+  {
+    "image_id": 820049389657923585,
+    "text": "# raisetheage of criminal responsibility once and for all . we 're 1 of only 2 states that still prosecutes 16 and 17 yr olds as adults .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tingkatkan usia pertanggungjawaban pidana sekali dan untuk selamanya. Kami adalah salah satu dari hanya dua negara bagian yang masih mengadili remaja berusia 16 dan 17 tahun sebagai orang dewasa."
+  },
+  {
+    "image_id": 816795830933917696,
+    "text": "not to mention ..... free refreshments .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "belum lagi, tersedia minuman dan makanan ringan gratis."
+  },
+  {
+    "image_id": 896060074975649792,
+    "text": "finally someone speaks the truth here",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Akhirnya, ada seseorang yang berbicara jujur di sini."
+  },
+  {
+    "image_id": 818238212707614723,
+    "text": "lay here waiting for sleep to arrive like ...",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berbaring di sini, menunggu tidur datang, seperti..."
+  },
+  {
+    "image_id": 819688341452898304,
+    "text": "breaking : omg omg omg omg omg omg omg omg omg omg omg omg omg omg omg omg omg omg",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berita penting: Ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun, ya ampun."
+  },
+  {
+    "image_id": 923264152939974657,
+    "text": "this is certainly going to help me be more productive today .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ini pasti akan membantu saya menjadi lebih produktif hari ini."
+  },
+  {
+    "image_id": 820413331987017728,
+    "text": "why good morning maichard ! ! phoebe l . erfe",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat pagi, Maichard!\nPhoebe L. Erfe."
+  },
+  {
+    "image_id": 846123180553068544,
+    "text": "what happened to bball players wearing good ol fashioned high tops these days . crazy millennials . protect them ankles .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apa yang terjadi dengan pemain bola basket yang dulu sering memakai sepatu high top klasik? Generasi muda saat ini memang aneh-aneh. Jaga baik-baik pergelangan kaki mereka."
+  },
+  {
+    "image_id": 822591487158452226,
+    "text": "blessed and very excited to have the opportunity to continue my football career at faulkner ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sangat bersyukur dan sangat senang mendapatkan kesempatan untuk melanjutkan karier sepak bola saya di Faulkner!"
+  },
+  {
+    "image_id": 822586053819240449,
+    "text": "i 'll be repping buffy at the # womensmarchonchicago tomorrow . <user> <user> <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya akan mendukung Buffy di acara #womensmarchonchicago besok."
+  },
+  {
+    "image_id": 870132473056829440,
+    "text": "there is no answer . it 's a",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tidak ada jawaban. Ini adalah..."
+  },
+  {
+    "image_id": 823314135374934016,
+    "text": "ensuring that all kids have access to # arts and # music in school : <user> <user> and # turnaroundartist mentor <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "memastikan semua anak memiliki akses ke # seni dan # musik di sekolah: <user> <user> dan mentor # turnaroundartist <user>."
+  },
+  {
+    "image_id": 818604786274553857,
+    "text": "me when i heard sebastains voice in the beginning of the im dying up here promo",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya terkejut ketika mendengar suara Sebastian di awal video promosi \"I'm Dying Up Here.\""
+  },
+  {
+    "image_id": 822231442956632065,
+    "text": "catfish heaven has the best wings and fish in ttown , no debate so don 't @ me .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Catfish Heaven memiliki hidangan sayap dan ikan terbaik di kota ini, tidak perlu diragukan lagi."
+  },
+  {
+    "image_id": 822955006668083200,
+    "text": "170108 top bigbang 0 . to . 10 the final in hk do not edit : source : adoreraptop",
+    "label": 0,
+    "split": "test",
+    "text_translated": "170108 Bigbang teratas. 0 hingga 10. Final di Hong Kong. Jangan diedit. Sumber: adoreraptop."
+  },
+  {
+    "image_id": 868869741833793536,
+    "text": "i had to do it !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya harus melakukannya!"
+  },
+  {
+    "image_id": 819685425170251778,
+    "text": "islam want to destroy us and i want to prevent it ~ geert wilders",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Islam ingin menghancurkan kita, dan saya ingin mencegahnya. ~ Geert Wilders."
+  },
+  {
+    "image_id": 818506785938165762,
+    "text": "the app has been made download kenby on appstore !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Aplikasi ini sekarang tersedia untuk diunduh di App Store!"
+  },
+  {
+    "image_id": 815709113011359744,
+    "text": "cellar new years shows # 2017 <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pertunjukan Malam Tahun Baru di Ruang Bawah Tanah, 2017."
+  },
+  {
+    "image_id": 818605024616075264,
+    "text": "my daughter is a model ... i 'm screwed . i love you so much baby girl ! ! ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Putri saya seorang model... saya benar-benar bingung. Saya sangat menyayangimu, sayang!"
+  },
+  {
+    "image_id": 818240081328738304,
+    "text": "“ … where completion is considered unlikely . \" not when aaron rodgers is throwing .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"... di mana penyelesaiannya dianggap kecil kemungkinannya, terutama ketika Aaron Rodgers yang melempar bola.\""
+  },
+  {
+    "image_id": 912780207299399680,
+    "text": "i miss back when the president didn ’ t care if you took a knee",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya rindu masa ketika presiden tidak peduli jika Anda berlutut."
+  },
+  {
+    "image_id": 709380107203260417,
+    "text": "this spring break thing is really hard . – 在 kindred coffee co .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Liburan musim semi ini benar-benar sulit. – di Kindred Coffee Co."
+  },
+  {
+    "image_id": 829713774055682048,
+    "text": "who likes being in the hospital for days , bc they were dehydrated , even though they drank a lot of water , but needed electrolytes ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Siapa yang senang berada di rumah sakit selama berhari-hari, karena mengalami dehidrasi, meskipun sudah minum banyak air, tetapi tetap membutuhkan elektrolit?"
+  },
+  {
+    "image_id": 931343690701918208,
+    "text": "look at this stalker . smfh . oh , and notice all the people traveling on that uso tour . have any of them corroborated today 's story ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Perhatikan orang yang menguntit itu. *sigh* Oh, dan perhatikan semua orang yang ikut dalam tur USO itu. Apakah ada di antara mereka yang membenarkan cerita hari ini?"
+  },
+  {
+    "image_id": 856922165928755203,
+    "text": "dear <user> your dagwood sandwich needs to be bigger !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Halo <user>, sandwich Dagwood Anda perlu dibuat lebih besar!"
+  },
+  {
+    "image_id": 820054799924297728,
+    "text": "\" i 'm offended \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya merasa tersinggung."
+  },
+  {
+    "image_id": 736087928628084738,
+    "text": "damn straight ! by yasmin …",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tentu saja! oleh Yasmin…"
+  },
+  {
+    "image_id": 936183002534744064,
+    "text": "well that 's right because women aren 't above not being able to keep their hands to themselves either , are they ? i speak from never having experienced groping in the workplace . no , never has a woman not been able to keep her hands to herself around me .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tentu saja, karena wanita juga bisa melakukan hal yang sama, bukan? Saya berbicara berdasarkan pengalaman pribadi, saya tidak pernah mengalami sentuhan yang tidak pantas di tempat kerja. Tidak, saya tidak pernah melihat seorang wanita tidak bisa mengendalikan gerakannya di dekat saya."
+  },
+  {
+    "image_id": 934826357296631808,
+    "text": "we love being out with our family ! ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kami sangat senang bisa menghabiskan waktu bersama keluarga kami!"
+  },
+  {
+    "image_id": 793689621301383169,
+    "text": "even burnol can 't even repair that ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Bahkan *burnol* pun tidak bisa memperbaikinya..."
+  },
+  {
+    "image_id": 820418188575903744,
+    "text": "the red carpet is in full swing with wish kids and stars !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Karpet merah telah digelar meriah, dengan kehadiran anak-anak yang mendapatkan kesempatan istimewa dan para bintang terkenal."
+  },
+  {
+    "image_id": 894137381644718080,
+    "text": "omg . found the best book .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ya ampun, aku menemukan buku yang terbaik."
+  },
+  {
+    "image_id": 851638105492910080,
+    "text": "you 're welcome .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sama-sama."
+  },
+  {
+    "image_id": 819327594612985856,
+    "text": "why does this have me dying ? !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kenapa hal ini membuatku tertawa terbahak-bahak?"
+  },
+  {
+    "image_id": 823313218663813121,
+    "text": "a picture of a naked girl can get 1000s of retweets . how many can our troops get ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sebuah gambar seorang gadis telanjang bisa mendapatkan ribuan *retweet*. Berapa banyak yang bisa diterima oleh pasukan kita?"
+  },
+  {
+    "image_id": 820415018709712898,
+    "text": "donuts",
+    "label": 0,
+    "split": "test",
+    "text_translated": "donat"
+  },
+  {
+    "image_id": 823310482492657665,
+    "text": "okay",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Oke."
+  },
+  {
+    "image_id": 891020655893917696,
+    "text": "i 'm loving the way cars are parked on gerald rd and blocking vision for cars and access to larger vehicles <user> .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya prihatin dengan cara kendaraan diparkir di Jalan Gerald, yang menghalangi pandangan dan akses bagi kendaraan lain, terutama kendaraan yang lebih besar."
+  },
+  {
+    "image_id": 934915730956587008,
+    "text": "get yourself a friend that sends you pictures of your christmas gift early because she couldn ’ t wait for you to see it ! <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Carilah teman yang mengirimkan foto hadiah Natalmu lebih awal, karena dia terlalu bersemangat untuk menunggumu melihatnya!"
+  },
+  {
+    "image_id": 727417471624445952,
+    "text": "rt <user> : people drink responsibly these days",
+    "label": 1,
+    "split": "test",
+    "text_translated": "rt <user>: Sekarang ini, orang-orang minum dengan bijak."
+  },
+  {
+    "image_id": 698451152560648192,
+    "text": "# trumptrain # amylindsay # waronwomen how dare she gets a job where she 's not naked ! ! ! ! ! ! ! ( )",
+    "label": 1,
+    "split": "test",
+    "text_translated": "#trumptrain #amylindsay #perangterhadapwanita. Berani sekali dia mendapatkan pekerjaan di mana dia tidak telanjang! ! ! ! ! ! ! ( )"
+  },
+  {
+    "image_id": 822225009716396032,
+    "text": "live from the lincoln memorial",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Disiarkan langsung dari Monumen Lincoln."
+  },
+  {
+    "image_id": 903728974047584256,
+    "text": "any of my fellow californians relate right now ? memes",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apakah ada warga California lainnya yang merasakan hal yang sama saat ini? (Gambar-gambar lucu/meme)."
+  },
+  {
+    "image_id": 818606718871601152,
+    "text": "<user> big fan of yours . look at this custom painting i commissioned an artist to do .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat mengagumi Anda. Lihatlah lukisan khusus ini, yang saya pesan dari seorang seniman."
+  },
+  {
+    "image_id": 888962638499205121,
+    "text": "<user> <num> min of sitting on the counter , this should be a great pizza",
+    "label": 1,
+    "split": "test",
+    "text_translated": "<num> menit untuk didiamkan di atas meja, ini akan menjadi pizza yang lezat."
+  },
+  {
+    "image_id": 818605187451547648,
+    "text": "gentlemen , lovers of dapper .... who wants one ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tuan-tuan, para penggemar gaya yang elegan… siapa yang menginginkannya?"
+  },
+  {
+    "image_id": 823997404252753920,
+    "text": "surprising ? the stake trump held , had nothing to do with the construction of the pipeline .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "menarik, bukan? kepentingan utama Trump sebenarnya tidak ada hubungannya dengan pembangunan pipa tersebut."
+  },
+  {
+    "image_id": 820701580840210433,
+    "text": "man this is so cool , i can 't believe no one thought of this sooner <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Wah, ini keren sekali, saya tidak percaya tidak ada yang memikirkan ini sebelumnya."
+  },
+  {
+    "image_id": 820416177545551874,
+    "text": "blitz : a bomb made a direct hit on the ticket office at bank underground station in london killing over 50 people",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ledakan bom mengakibatkan kerusakan langsung pada loket penjualan tiket di stasiun kereta bawah tanah Bank di London, menewaskan lebih dari 50 orang."
+  },
+  {
+    "image_id": 683894557021319169,
+    "text": "<user> & i showed up like this ! how embarrassing !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya datang seperti ini! Sungguh memalukan!"
+  },
+  {
+    "image_id": 817520441623543809,
+    "text": "~ a es theti c ~ noctis work in progress . gonna render over after dinner 'o '",
+    "label": 0,
+    "split": "test",
+    "text_translated": "~ sebuah proyek yang masih dalam pengerjaan. Akan dirender setelah makan malam."
+  },
+  {
+    "image_id": 819690288486711296,
+    "text": "can y 'all imagine me living in texas ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bisakah kalian membayangkan saya tinggal di Texas?"
+  },
+  {
+    "image_id": 819330543657492480,
+    "text": "number ... scholarship from pace university",
+    "label": 0,
+    "split": "test",
+    "text_translated": "nomor... beasiswa dari Universitas Pace."
+  },
+  {
+    "image_id": 817518973847740417,
+    "text": "happy to have randy mckay and chico resch back in jersey !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Senang sekali menyambut kembali Randy McKay dan Chico Resch di Jersey!"
+  },
+  {
+    "image_id": 820050301281533952,
+    "text": ". <user> <user> your husband has 6 days left to free an innocent man we ask for his freedom will you ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Suami Anda memiliki waktu 6 hari untuk membebaskan seorang pria yang tidak bersalah. Kami memohon agar pria itu dibebaskan. Apakah Anda bersedia?"
+  },
+  {
+    "image_id": 852691195281248257,
+    "text": "is there anything better than spending a thursdaynight at home doing analytics reports ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apakah ada hal yang lebih menyenangkan daripada menghabiskan malam Kamis di rumah mengerjakan laporan analisis?"
+  },
+  {
+    "image_id": 822230527570808832,
+    "text": ". <user> to put his hand on his personal bible for swearing in . no word on whether he 'll remove the wrapper .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Untuk pengambilan sumpah, ia meletakkan tangannya di atas Alkitab pribadinya. Belum ada informasi apakah ia akan melepaskan pembungkusnya."
+  },
+  {
+    "image_id": 822223875257700352,
+    "text": "accurate",
+    "label": 0,
+    "split": "test",
+    "text_translated": "akurat"
+  },
+  {
+    "image_id": 822954883791757313,
+    "text": "these pictures shows how crazy baekhyun is for sehun",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Foto-foto ini menunjukkan betapa tergila-gilanya Baekhyun pada Sehun."
+  },
+  {
+    "image_id": 822224625526566913,
+    "text": "congratulations to our men ’ s & women ’ s athletics program for ranking first in the <user> cup fall standings !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat kepada program atletik putra dan putri kami yang berhasil meraih peringkat pertama dalam klasemen musim gugur Kejuaraan <user>!"
+  },
+  {
+    "image_id": 817158655581618176,
+    "text": "that moment when <user> hands u a blunt as says \" hit that while i finish this tweet \" .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Momen ketika seseorang memberikan rokok kepada Anda sambil berkata, \"Isap ini dulu sementara saya menyelesaikan *tweet* ini.\""
+  },
+  {
+    "image_id": 693217080062005249,
+    "text": "just a few schools here today !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hanya beberapa sekolah yang hadir hari ini!"
+  },
+  {
+    "image_id": 684667398843047936,
+    "text": "/ / me and my mentions right now hahaha",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya dan unggahan terbaru saya saat ini, hahaha."
+  },
+  {
+    "image_id": 822955142764969985,
+    "text": "today 78 was laid to rest . god bless his family , friends and all who loved him . rest in peace , t-bone .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hari ini, almarhum Tuan 78 telah dimakamkan. Semoga Tuhan memberkati keluarga, teman-teman, dan semua orang yang mengenangnya. Semoga almarhum beristirahat dengan tenang, T-Bone."
+  },
+  {
+    "image_id": 842530026138624000,
+    "text": "god look at that crappy grade . i am such a terrible player . jeez why do people even play with me .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ya Tuhan, lihat nilai jelek ini. Aku pemain yang sangat buruk. Ya ampun, kenapa orang-orang mau bermain bersamaku."
+  },
+  {
+    "image_id": 822952686203109376,
+    "text": "happy saturday ! ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat hari Sabtu!"
+  },
+  {
+    "image_id": 822951053951799297,
+    "text": "<user> <user> # womensmarch # womensmarchpdx thank you to the police & the organisers for the peaceful & well supported march",
+    "label": 0,
+    "split": "test",
+    "text_translated": "#womensmarch #womensmarchpdx Terima kasih kepada pihak kepolisian dan para penyelenggara atas aksi unjuk rasa yang berlangsung damai dan mendapat dukungan luas."
+  },
+  {
+    "image_id": 819328657885904898,
+    "text": "jump to the moon b . rodas ! ! ! ! this boy gonna be something in life ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "meloncat ke bulan. B. Rodas! Rodas! Rodas! Anak laki-laki ini pasti akan meraih sesuatu dalam hidupnya!"
+  },
+  {
+    "image_id": 860293720352182273,
+    "text": "today 's weather report is brought to you by",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Laporan cuaca hari ini disajikan oleh."
+  },
+  {
+    "image_id": 838258483115913217,
+    "text": "lmao ! - pctto",
+    "label": 1,
+    "split": "test",
+    "text_translated": "hahaha! - pctto"
+  },
+  {
+    "image_id": 818241143288827904,
+    "text": "final . lou 73 , up 52 . mariya moore scored a team-high 18 points , and <user> ( 15-3 , 3-1 ) scored 27 pts . off tos for the victory .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Final: Lou 73, unggul 52. Maria Moore mencetak 18 poin tertinggi dalam tim, dan <user> (15-3, 3-1) mencetak 27 poin. Mereka meraih kemenangan berkat poin yang diperoleh dari *turnover*."
+  },
+  {
+    "image_id": 823315620401999872,
+    "text": "\" three point shooting is an unsustainable fad that doesn 't work in the playoffs \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Tendensi untuk terlalu mengandalkan tembakan jarak jauh adalah tren yang tidak berkelanjutan dan tidak efektif dalam pertandingan playoff.\""
+  },
+  {
+    "image_id": 827844035083698176,
+    "text": "dude .. how will you unlock the happiness by a wrong key ? rt if get this .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Bro, bagaimana kamu bisa membuka kebahagiaan dengan kunci yang salah? Bagikan jika kamu mengerti."
+  },
+  {
+    "image_id": 820411373914038272,
+    "text": "to the # saltiestbae i know <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "untuk kamu, orang yang paling terbaik yang aku kenal."
+  },
+  {
+    "image_id": 819324819716050944,
+    "text": "this is all i ever wanted , you can 't take it from me",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Inilah semua yang selama ini kuinginkan, dan kalian tidak bisa merebutnya dariku."
+  },
+  {
+    "image_id": 819686432189149184,
+    "text": "if you are sheltering from # uksnow please remember the heroes of the arctic convoys kg5 , # history in <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Jika Anda sedang berlindung dari badai salju #uksnow, ingatlah para pahlawan yang terlibat dalam konvoi ke Kutub Utara, KG5. #sejarah."
+  },
+  {
+    "image_id": 819328538465562624,
+    "text": ". <user> on his epic dab :",
+    "label": 0,
+    "split": "test",
+    "text_translated": ". <user> tentang petualangannya yang luar biasa:"
+  },
+  {
+    "image_id": 819330592718221312,
+    "text": "extremely happy and grateful to have received my second d1 offer from stetson university ! praise god",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sangat bahagia dan bersyukur telah menerima tawaran masuk kedua saya dari Universitas Stetson! Pujilah Tuhan."
+  },
+  {
+    "image_id": 823311789593137152,
+    "text": "so cozy",
+    "label": 0,
+    "split": "test",
+    "text_translated": "sangat nyaman."
+  },
+  {
+    "image_id": 818604975437664256,
+    "text": "bph originals is real love this family <user> <user> <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "bph originals adalah cinta sejati. Keluarga ini begitu istimewa."
+  },
+  {
+    "image_id": 725284784763711488,
+    "text": "best friend ever",
+    "label": 1,
+    "split": "test",
+    "text_translated": "sahabat terbaik sepanjang masa."
+  },
+  {
+    "image_id": 821867644194328577,
+    "text": "get over it",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Lupakan saja."
+  },
+  {
+    "image_id": 862902619928506372,
+    "text": "i am guessing # netflix no longer lets you grab screens of movies . that & the new rating system is so awesome .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sepertinya sekarang Netflix tidak lagi mengizinkan pengguna mengambil tangkapan layar film. Fitur itu, dan juga sistem penilaian yang baru, sangat bagus."
+  },
+  {
+    "image_id": 686786826254745600,
+    "text": "i like to start my day off with encouragement .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya suka memulai hari dengan hal-hal yang membangkitkan semangat."
+  },
+  {
+    "image_id": 820416124990918656,
+    "text": "congrats to <user> <user> <user> on joining the longhorn family . proud to have you .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat kepada <user> <user> <user> atas bergabungnya dengan keluarga Longhorn. Kami bangga menyambut Anda."
+  },
+  {
+    "image_id": 819434366954799104,
+    "text": "wtf is this ? haha <user> seems like there is a misconception ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apa-apaan ini? Haha. <user> Sepertinya ada kesalahpahaman."
+  },
+  {
+    "image_id": 832079046351667200,
+    "text": "it 's been a pretty good day ! despite all over overloaded i managed a few smiles & made other people smile . i changed the world + 3",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hari ini cukup menyenangkan! Meskipun semuanya terasa sangat padat, saya berhasil tersenyum dan membuat orang lain tersenyum. Saya telah memberikan sedikit perubahan positif bagi dunia + 3."
+  },
+  {
+    "image_id": 865079610601492480,
+    "text": "it 's been such a long day , i almost typed blacksox . remember those guys ? handsome fellas .... and ethical too .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hari ini terasa sangat panjang, saya hampir saja salah mengetik \"Blacksox\". Ingat mereka? Para pria tampan... dan juga menjunjung tinggi etika."
+  },
+  {
+    "image_id": 917778825810993152,
+    "text": "# hrc defenders sound so stupid saying she shouldn 't denounce # harveyweinstein .. a great defender of women she is ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# Organisasi HRC Defenders terdengar sangat tidak masuk akal dengan mengatakan bahwa dia seharusnya tidak mengkritik #HarveyWeinstein... Dia adalah pembela wanita yang hebat..."
+  },
+  {
+    "image_id": 822225526987190272,
+    "text": "when one of your bffs went into labor last night and you eventually figure out you have the wrong number for her husband .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika salah satu sahabat terbaikmu tiba-tiba mengalami kontraksi kemarin malam, dan setelah beberapa saat kamu menyadari bahwa nomor telepon yang kamu punya ternyata bukan nomor suaminya."
+  },
+  {
+    "image_id": 834272653162582017,
+    "text": "ohhhh moms i love our talks .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Oh, Ibu-ibu, saya sangat senang dengan percakapan kita."
+  },
+  {
+    "image_id": 706423872405504000,
+    "text": "delighted to be standing in for <user> today judging at <user> .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Senang sekali bisa menggantikan <user> hari ini dan menjadi juri di <user>."
+  },
+  {
+    "image_id": 823318334196318209,
+    "text": "but it has never been delivered ..",
+    "label": 0,
+    "split": "test",
+    "text_translated": "tetapi itu tidak pernah dikirimkan."
+  },
+  {
+    "image_id": 818239991088316416,
+    "text": "accurate representation of how much i 've studied for semester exams :",
+    "label": 0,
+    "split": "test",
+    "text_translated": "representasi akurat tentang seberapa banyak saya telah belajar untuk ujian semester:"
+  },
+  {
+    "image_id": 823317146121994240,
+    "text": "congrats <user> ! ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat! Selamat! Selamat!"
+  },
+  {
+    "image_id": 818607556759261185,
+    "text": "police have arrested 17 suspects in kim kardashian ’ s robbery case — the frightening details & why the nightmare is far from over now on",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Polisi telah menangkap 17 tersangka dalam kasus perampokan yang menimpa Kim Kardashian — detail mengerikan tentang kejadian tersebut, dan mengapa masalah ini masih jauh dari selesai."
+  },
+  {
+    "image_id": 830233270164000768,
+    "text": "good job , james dolan . kick out someone who 's the fabric of one of the best eras of nyknicks basketball .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kerja bagus, James Dolan. Singkirkan seseorang yang merupakan bagian penting dari salah satu era terbaik dalam sejarah bola basket New York Knicks."
+  },
+  {
+    "image_id": 727150114863616000,
+    "text": "yeah , this seems totally believeable from last night at kind .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ya, ini sepertinya sangat masuk akal, berdasarkan apa yang terjadi tadi malam di Kind."
+  },
+  {
+    "image_id": 818240481511489537,
+    "text": "after partying later , natalie portman says she gets to be everyone 's designated driver . ahh , that mom-to-be life .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Setelah berpesta, Natalie Portman mengatakan bahwa dia sering menjadi pengemudi yang bertanggung jawab untuk teman-temannya. Ah, kehidupan seorang ibu yang akan segera melahirkan."
+  },
+  {
+    "image_id": 815708792793001985,
+    "text": "this",
+    "label": 0,
+    "split": "test",
+    "text_translated": "ini."
+  },
+  {
+    "image_id": 717888234064322560,
+    "text": "when it 's snow storming in sudbury & boredom sets in ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika badai salju melanda Sudbury, dan kebosanan mulai terasa..."
+  },
+  {
+    "image_id": 819691782258696194,
+    "text": "here is some selfies with no braces for you guys .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berikut adalah beberapa foto diri tanpa behel untuk kalian."
+  },
+  {
+    "image_id": 822589734891487232,
+    "text": "# ipython 5 . x is so last year . we 'll have gifts for you in 2017 . static type inference and better completion with thanks to ( at least ) jedi .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "# IPython 5.x sudah ketinggalan zaman. Kami akan memberikan kejutan untuk Anda pada tahun 2017. Fitur inferensi tipe statis dan pelengkapan kode yang lebih baik, berkat (setidaknya) JEDI."
+  },
+  {
+    "image_id": 684633048483106816,
+    "text": "dad 's handy work . can 't tell at all .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Karya hasil tangan ayah. Sulit ditebak sama sekali."
+  },
+  {
+    "image_id": 822223990617817089,
+    "text": "\" this friday our own david giuntoli makes his directorial debut on # grimm ! he did an amazing job . all the 's up ! \" - buddymoon",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Jumat ini, David Giuntoli sendiri akan membuat debutnya sebagai sutradara di serial #Grimm! Dia telah melakukan pekerjaan yang luar biasa. Semangat terus!\" - buddymoon"
+  },
+  {
+    "image_id": 908816714447458304,
+    "text": "he 's fun",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Dia menyenangkan."
+  },
+  {
+    "image_id": 820782580765224960,
+    "text": "better late than never",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Lebih baik terlambat daripada tidak sama sekali."
+  },
+  {
+    "image_id": 939885832667848705,
+    "text": "and the oscar goes to ....",
+    "label": 1,
+    "split": "test",
+    "text_translated": "dan penghargaan Oscar diberikan kepada..."
+  },
+  {
+    "image_id": 717042051074891776,
+    "text": "<user> supporting donald trump aka his role model",
+    "label": 1,
+    "split": "test",
+    "text_translated": "mendukung Donald Trump, atau lebih tepatnya, menganggapnya sebagai panutan."
+  },
+  {
+    "image_id": 836787828625391616,
+    "text": "yup lol .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ya, benar."
+  },
+  {
+    "image_id": 817158696534994944,
+    "text": "blessed are those who mourn ... for they will be comforted .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berbahagialah mereka yang berduka, karena mereka akan dihibur."
+  },
+  {
+    "image_id": 820055188950175745,
+    "text": "happeningnow : mg tim mcguire talks with <user> tank crews in poland .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "sedang berlangsung: Tim McGuire berbicara dengan awak tank di Polandia."
+  },
+  {
+    "image_id": 819325533439725568,
+    "text": "stunned wrt misinformed <user> of nyt re science accomplished by my son . an example of why nyt climate reporting is so flawed",
+    "label": 0,
+    "split": "test",
+    "text_translated": "terkejut karena informasi yang keliru yang diberikan kepada <user> mengenai pencapaian ilmiah putra saya. Ini adalah contoh mengapa peliputan perubahan iklim di *The New York Times* sangat bermasalah."
+  },
+  {
+    "image_id": 818239136113037312,
+    "text": ". <user> and <user> = goals forever and always .",
+    "label": 0,
+    "split": "test",
+    "text_translated": ". <user> dan <user> = tujuan abadi."
+  },
+  {
+    "image_id": 930073203589959685,
+    "text": "\" psa to any girls ! ! ! $ 10 at walmart vs $ 80 at vs \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pesan penting untuk para wanita! Harga produk yang sama, $10 di Walmart, dibandingkan dengan $80 di Victoria's Secret."
+  },
+  {
+    "image_id": 821505476621901825,
+    "text": "meet the artist meme hi my 4 bags are all empty because i don 't go out",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bertemu dengan seniman meme: Hai, keempat tas saya semuanya kosong karena saya jarang keluar rumah."
+  },
+  {
+    "image_id": 820414585756876800,
+    "text": "inter 's line-up vs chievo .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Inter menghadapi Chievo."
+  },
+  {
+    "image_id": 822589779246202881,
+    "text": "hey boston mayor <user> - 2000 steeler fans ready to deflate your patriots .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Halo, Wali Kota Boston. 2000 penggemar Steelers siap untuk \"mengalahkan\" tim Patriots Anda."
+  },
+  {
+    "image_id": 820416067050803200,
+    "text": "this guy <user> knows what ’ s coming in 2017 , trying to sabotage my title challenge already",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Orang ini, <user>, sepertinya sudah tahu apa yang akan terjadi pada tahun 2017, dan berusaha menghalangi upayaku untuk meraih gelar juara."
+  },
+  {
+    "image_id": 685173919058407424,
+    "text": "snowy owl came too close to traffic camera and he is being ticketed for not reading the signs in",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Burung hantu salju itu terlalu dekat dengan kamera pengawas, dan kini dikenakan denda karena tidak memperhatikan rambu-rambu yang ada."
+  },
+  {
+    "image_id": 822222423495802880,
+    "text": "check us out on <user> !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kunjungi kami di <user>!"
+  },
+  {
+    "image_id": 830115654514638848,
+    "text": "day <num> city hall document search progress report . most interesting email so far . <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "kemajuan pencarian dokumen di balai kota, tanggal <num>. Laporan email yang paling menarik sejauh ini. <user>."
+  },
+  {
+    "image_id": 816796081111461888,
+    "text": "when your family sees that what you have is really something beautiful ... ( c )",
+    "label": 0,
+    "split": "test",
+    "text_translated": "ketika keluarga Anda melihat bahwa apa yang Anda miliki benar-benar sesuatu yang indah... (c)"
+  },
+  {
+    "image_id": 823317583625601025,
+    "text": "players in afc championship by b1g school : rutgers , 4 mich . , 3 maryland , 2 osu , 2 ill , 1 msu , 1 nebraska , 1 psu , 1 purdue , 1 wisconsin , 1",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tim-tim yang berlaga di kejuaraan AFC, yang berasal dari liga besar: Rutgers, 4 (poin); Michigan, 3; Maryland, 2; Ohio State, 2; Illinois, 1; Michigan State, 1; Nebraska, 1; Penn State, 1; Purdue, 1; Wisconsin, 1."
+  },
+  {
+    "image_id": 818243685578145792,
+    "text": "wow . mommy 's twitter blocked me yet she used to link to me and her brother & sister follow me . did i upset someone ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Wow. Akun Twitter ibu saya memblokir saya, padahal dulu beliau sering membagikan tautan ke akun saya, dan saudara-saudaranya mengikuti saya. Apakah saya menyinggung seseorang?"
+  },
+  {
+    "image_id": 822229123414290434,
+    "text": "inauguration day 2017 , we 're all americans & this time we showed that corp america doesn 't own us this time we celebrate the american voter !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pada hari pelantikan tahun 2017, kita semua adalah warga Amerika, dan kali ini kita menunjukkan bahwa korporasi Amerika tidak mengendalikan kita. Kali ini, kita merayakan suara para pemilih Amerika!"
+  },
+  {
+    "image_id": 729474644483280897,
+    "text": "rofl",
+    "label": 1,
+    "split": "test",
+    "text_translated": "tertawa terbahak-bahak."
+  },
+  {
+    "image_id": 822587229696573443,
+    "text": "part of representative marsha blackburn 's team ! they been so good to us while we have been in washington dc !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bagian dari tim Anggota Dewan Perwakilan Marsha Blackburn! Mereka sangat baik kepada kami selama kami berada di Washington, D.C.!"
+  },
+  {
+    "image_id": 819692780435996672,
+    "text": "'you carried your own burdens & very soon your symptoms of creeping privilege disappeared ' <user> quoting",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Anda memikul beban Anda sendiri, dan sangat cepat gejala keistimewaan yang merayap itu menghilang.\""
+  },
+  {
+    "image_id": 822589668965421061,
+    "text": "princess jasmine glam",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Putri Jasmine yang memukau."
+  },
+  {
+    "image_id": 823313458607353857,
+    "text": "just got back from the # t2trainspotting premiere in edinburgh got to see all the actors and this guy the amazing <user> what a night",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Baru saja kembali dari pemutaran perdana film #t2trainspotting di Edinburgh. Saya berkesempatan bertemu dengan semua aktor, dan juga dengan <user> yang luar biasa. Sungguh malam yang hebat."
+  },
+  {
+    "image_id": 822222770947977216,
+    "text": "cutie",
+    "label": 0,
+    "split": "test",
+    "text_translated": "lucu."
+  },
+  {
+    "image_id": 819330412661145606,
+    "text": "love this unused atari pac-man cover by hiro kimura",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Suka sekali dengan sampul Atari Pac-Man yang belum pernah digunakan ini, karya Hiro Kimura."
+  },
+  {
+    "image_id": 729987628028801024,
+    "text": "lunch time",
+    "label": 1,
+    "split": "test",
+    "text_translated": "waktu makan siang."
+  },
+  {
+    "image_id": 816796209583128576,
+    "text": "be sure to follow us on snapchat [ <user> ] for an insider ’ s look at the # ff91 . also , don ’ t miss our exclusive # ces2017 geofilters !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pastikan untuk mengikuti kami di Snapchat [ <user> ] untuk mendapatkan pandangan eksklusif tentang #ff91. Jangan lewatkan juga filter lokasi khusus #CES2017 kami!"
+  },
+  {
+    "image_id": 820053943061454852,
+    "text": "ladies & gentlemen the 2016 # gaeliclifeallstars camogie player of the year is shannon graham <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hadirin sekalian, pemain camogie terbaik tahun 2016 dari #GaelicLifeAllStars adalah Shannon Graham."
+  },
+  {
+    "image_id": 706605194373632001,
+    "text": "i 'm really surprised how many democrats want female dickcheney to be their president !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sangat terkejut melihat betapa banyaknya pendukung Partai Demokrat yang menginginkan seorang wanita seperti Dick Cheney menjadi presiden mereka!"
+  },
+  {
+    "image_id": 895268569402966016,
+    "text": "<user> cheers ! this is what dming you to sort something out means ... how do you put a formal complaint ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Salam! Ini maksud saya ketika mengirim pesan kepada Anda untuk menyelesaikan sesuatu... Bagaimana cara mengajukan keluhan resmi?"
+  },
+  {
+    "image_id": 918550230546690048,
+    "text": "the house is coming along slowly . class really misses <user> homebuilding expertise ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Rumah itu sedang dalam proses pembangunan, berjalan perlahan. Kelas sangat merindukan keahlian <user> dalam membangun rumah!"
+  },
+  {
+    "image_id": 822952277119897600,
+    "text": "awesome",
+    "label": 0,
+    "split": "test",
+    "text_translated": "luar biasa."
+  },
+  {
+    "image_id": 818244612779175936,
+    "text": "belated happy new year from lei and jiao",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat Tahun Baru, sedikit terlambat, dari Lei dan Jiao."
+  },
+  {
+    "image_id": 822948183366045697,
+    "text": "another win today for the bulldogs ! great game <user> and everyone who came out to support !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kemenangan lagi hari ini untuk tim Bulldogs! Pertandingan yang hebat, terima kasih kepada <user> dan semua yang hadir untuk memberikan dukungan!"
+  },
+  {
+    "image_id": 703087927199334400,
+    "text": "great day for iron banner loot !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "hari yang tepat untuk mendapatkan hadiah dari Iron Banner!"
+  },
+  {
+    "image_id": 822586936917393409,
+    "text": "happiest birthday , <user> from your <user> family !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat ulang tahun, <user>, dari keluarga <user> Anda!"
+  },
+  {
+    "image_id": 685079733478932481,
+    "text": "thats when i know !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saat itulah saya mengerti!"
+  },
+  {
+    "image_id": 821868569273266180,
+    "text": "louis posted this on ig earlier ! - s",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Louis mengunggah ini di Instagram tadi! - s"
+  },
+  {
+    "image_id": 819685756646129667,
+    "text": "me normally vs me when exo is getting slandered",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya, biasanya, dibandingkan dengan saya ketika EXO menjadi sasaran fitnah."
+  },
+  {
+    "image_id": 879989029609123842,
+    "text": "great job , <user> . \" don 't bother with education , just be pretty . \" great ad message",
+    "label": 1,
+    "split": "test",
+    "text_translated": "kerja bagus, <user>. \"Jangan peduli dengan pendidikan, cukuplah tampil menarik.\" Pesan iklan yang sangat buruk."
+  },
+  {
+    "image_id": 819692980722221060,
+    "text": "yb 's comment \" minjung-a , this one is kinda ... \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Komentar yb: \"Minjung-a, ini agak...\""
+  },
+  {
+    "image_id": 874327555159068672,
+    "text": "hopefully , will neverever use placemaking propaganda term unless for / derision in opposition to crony capitalists .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Semoga saya tidak akan pernah menggunakan istilah \"penataan ruang\" yang bersifat propaganda, kecuali jika untuk mengejek atau menentang para kapitalis kroni."
+  },
+  {
+    "image_id": 827709119465394176,
+    "text": "# betsydevos # theresistance this amway billionaire is very qualified !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# betsydevos # theresistance Miliarder Amway ini sangat berkualitas!"
+  },
+  {
+    "image_id": 885152029563342848,
+    "text": "# bringbackobama because who needs the constitution anyway .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# kembalikanObama karena siapa yang butuh konstitusi, toh?"
+  },
+  {
+    "image_id": 697719316645601280,
+    "text": "nice warm running weather this morning ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Cuaca pagi ini sangat nyaman, hangat, dan cocok untuk berolahraga."
+  },
+  {
+    "image_id": 819323637828374529,
+    "text": "she is the cutest ever",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dia adalah yang terlucu/termanis yang pernah ada."
+  },
+  {
+    "image_id": 821506503794446336,
+    "text": "my wife surprised me with a late christmas present today",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Istri saya hari ini memberikan kejutan dengan hadiah Natal yang terlambat."
+  },
+  {
+    "image_id": 862485502141779968,
+    "text": "when your ex talking about loyalty .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika mantan Anda berbicara tentang kesetiaan."
+  },
+  {
+    "image_id": 886750172532924416,
+    "text": "this new blue \" ohmibod \" toy must be amazing !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Mainan biru baru merek \"ohmibod\" ini pasti luar biasa!"
+  },
+  {
+    "image_id": 712994516379283457,
+    "text": "how many calories does burn ? <user> <user> <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Berapa banyak kalori yang terbakar?"
+  },
+  {
+    "image_id": 820417769841704961,
+    "text": "haiku stairs , hawaii",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tangga Haiku, Hawaii."
+  },
+  {
+    "image_id": 726842972726288384,
+    "text": "black panther ... ( y ) like if you agree too ... …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "panther hitam... (y) setuju juga, kan...?"
+  },
+  {
+    "image_id": 820417779241095170,
+    "text": "keep going harmonizers ! show us that want this award for our girls .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Terus semangat, teman-teman! Tunjukkan kepada kami bahwa kalian menginginkan penghargaan ini untuk para perempuan hebat kita."
+  },
+  {
+    "image_id": 844090891266490368,
+    "text": "tru that .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Benar sekali."
+  },
+  {
+    "image_id": 823310321364467713,
+    "text": "my old plug posted a maga status today ...",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Teman lama saya mengunggah status yang mendukung MAGA hari ini..."
+  },
+  {
+    "image_id": 819330818153779200,
+    "text": "robert knepper no painel de prison break",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Robert Knepper tidak hadir dalam acara Prison Break."
+  },
+  {
+    "image_id": 717092433046212608,
+    "text": "love the variety of photographs topps uses . <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sangat menyukai beragam foto yang digunakan oleh Topps."
+  },
+  {
+    "image_id": 821869167238348800,
+    "text": "red wine warms the heart & tickles all the senses ... <user> <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Anggur merah menghangatkan hati dan memanjakan semua indra…"
+  },
+  {
+    "image_id": 822948835148185600,
+    "text": "wyd 10 minutes after smoking this ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bagaimana perasaan Anda 10 menit setelah mengisapnya?"
+  },
+  {
+    "image_id": 731622676826050560,
+    "text": "let 's start spending on education !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Mari kita mulai berinvestasi pada pendidikan!"
+  },
+  {
+    "image_id": 905506183590576129,
+    "text": "\" a song in your heart \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "sebuah lagu di dalam hati."
+  },
+  {
+    "image_id": 736082451424890881,
+    "text": "when it 's 2nd april and she is still pregnant .. <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika sudah tanggal 2 April dan dia masih hamil..."
+  },
+  {
+    "image_id": 683295117847969793,
+    "text": "the pa welcome center is hopping today .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Pusat informasi PA sangat ramai hari ini."
+  },
+  {
+    "image_id": 819331992558927872,
+    "text": "in her final late night show appearance during the obama presidency , the first lady will do \" thank you notes \" tonight with <user> .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dalam penampilan terakhirnya di acara *late night show*, selama masa kepresidenan Obama, Ibu Negara akan mengisi segmen \"Catatan Terima Kasih\" bersama <user> malam ini."
+  },
+  {
+    "image_id": 819331022588350464,
+    "text": "the window to my soul",
+    "label": 0,
+    "split": "test",
+    "text_translated": "jendela menuju jiwaku."
+  },
+  {
+    "image_id": 926433400717824000,
+    "text": "buy now enough by danielle norman . ➤ purchase today amazon universal : ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Beli sekarang. \"Enough\" karya Danielle Norman. ➤ Dapatkan segera di Amazon."
+  },
+  {
+    "image_id": 726980104090456065,
+    "text": "like if you agree ... :/",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Jika Anda setuju, berikan tanda suka... :/"
+  },
+  {
+    "image_id": 711626313010946048,
+    "text": "yup <user> matchmaking is fine <user> how can <user> expect people to pay $ for this ? !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ya, perjodohan itu boleh saja. <user> Bagaimana <user> bisa mengharapkan orang untuk membayar sejumlah uang untuk ini? !"
+  },
+  {
+    "image_id": 827879534900948994,
+    "text": "can 't wait to spend several hours every day in the next few weeks with these lovely books .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sangat antusias untuk menghabiskan beberapa jam setiap hari dalam beberapa minggu ke depan bersama buku-buku indah ini."
+  },
+  {
+    "image_id": 820410787676254209,
+    "text": "4 in my eyes but 5 in my heart",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Di mataku, dia berusia empat tahun, tetapi di hatiku, dia berusia lima tahun."
+  },
+  {
+    "image_id": 915168200471572480,
+    "text": "when you want yo hold bae 's hands but need to keep it as halaal as possible .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika Anda ingin menggenggam tangan seseorang, tetapi ingin melakukannya dengan cara yang sesuai dengan prinsip-prinsip agama."
+  },
+  {
+    "image_id": 820410944220254208,
+    "text": "best fan army - top 5 ( twitter ) lovatics : 5.7 m harmonizers : 4.3 m beliebers : 3.8 m selenators : 2.8 m 5sos : 1.8 m",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Komunitas penggemar terbaik – Top 5 (Twitter):\n\n*   Lovatics: 5,7 juta\n*   Harmonizers: 4,3 juta\n*   Beliebers: 3,8 juta\n*   Selenators: 2,8 juta\n*   5SOS: 1,8 juta"
+  },
+  {
+    "image_id": 906361761363832833,
+    "text": "# studying for a test <user> my # sdit is really a big help",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Belajar untuk ujian, dan sumber belajar daring ini sangat membantu."
+  },
+  {
+    "image_id": 822230686182625284,
+    "text": "moore : \" we 're all muslim . we 're all mexican . we 're all women . yes , we 're all gay , lesbian , trans , and god damnit , queer too \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Moore: \"Kami semua Muslim. Kami semua berasal dari Meksiko. Kami semua perempuan. Ya, kami semua gay, lesbian, transgender, dan, sungguh, kami juga queer.\""
+  },
+  {
+    "image_id": 868743477474897920,
+    "text": "for the record usually announcing when i arrive to my destination via photos but hey , whatever works for people",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Biasanya, saya selalu memberi tahu ketika saya tiba di tujuan dengan mengirimkan foto, tetapi ya, terserah apa yang membuat orang nyaman."
+  },
+  {
+    "image_id": 819329454162006016,
+    "text": "most beautiful campus in the country . <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "kampus terindah di seluruh negeri."
+  },
+  {
+    "image_id": 819694684033449986,
+    "text": "y 'all know they make 8ball in real life",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kalian semua tahu, mereka benar-benar membuat permen 8-ball di kehidupan nyata."
+  },
+  {
+    "image_id": 819686558014066689,
+    "text": "you 've got to ask yourself one question : 'do i feel lucky ? ' well , do ya , punk ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Anda harus bertanya pada diri sendiri satu pertanyaan: \"apakah saya merasa beruntung?\" Nah, apakah Anda merasa begitu, nak?"
+  },
+  {
+    "image_id": 823993307458109440,
+    "text": "come on , <user> , men have never been shown in a negative light in media . right ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ayo, <user>, apakah benar bahwa pria tidak pernah digambarkan secara negatif di media?"
+  },
+  {
+    "image_id": 810938163766169600,
+    "text": "pointing the index finger up is a well known sign of islamic radicalization , one wonders who radicalized him ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Menunjuk jari telunjuk ke atas adalah tanda yang dikenal luas sebagai indikasi radikalisasi dalam Islam, dan muncul pertanyaan, siapakah yang telah meradikalisasinya."
+  },
+  {
+    "image_id": 822947839714217985,
+    "text": "steve universe ( capa de caderno , frente e verso ) ➳ rt if saved , fav if liked . / live",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Steve Universe (sampul buku catatan, bagian depan dan belakang) ➳ Bagikan jika menyimpan, sukai jika menyukai. / Langsung."
+  },
+  {
+    "image_id": 816796252159537156,
+    "text": "sometimes , people must climb to the top of 23,000 gallon fermenters to fix issues in the middle of winter . we call these people # heroes .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Terkadang, orang-orang harus mendaki hingga puncak tangki fermentasi berukuran 23.000 galon untuk memperbaiki masalah, bahkan di tengah musim dingin. Kami menyebut orang-orang ini sebagai #pahlawan."
+  },
+  {
+    "image_id": 822947370748915712,
+    "text": "headed to la to stand with my sisters as an ally against hate !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya akan menuju ke Los Angeles untuk bersama para perempuan hebat lainnya, sebagai pendukung dalam melawan kebencian."
+  },
+  {
+    "image_id": 823312523457949696,
+    "text": "this is already atlanta 's best year ever",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ini adalah tahun terbaik yang pernah dialami Atlanta."
+  },
+  {
+    "image_id": 943979023063019521,
+    "text": "oh , look . more bodies on the # goptaxscam heap .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Oh, lihat. Ada lagi nama-nama yang terlibat dalam skandal #goptaxscam ini."
+  },
+  {
+    "image_id": 940264356675284993,
+    "text": "<user> thanks for the warning on all that extreme weather we 're having .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Terima kasih atas peringatannya mengenai semua cuaca ekstrem yang sedang terjadi."
+  },
+  {
+    "image_id": 818608214967078914,
+    "text": "la skies weep ( or has been raining for the past week ) as me / <user> move to austin after 3 years in la hoping austin brings new adventures !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Langit Los Angeles terus menangis (atau sudah hujan selama seminggu terakhir) saat saya/pengguna ini pindah ke Austin setelah tiga tahun di Los Angeles, dengan harapan Austin akan membawa petualangan baru!"
+  },
+  {
+    "image_id": 819323299398373376,
+    "text": "'twas the night before blue day & all through the school all the ss & ts were thinking , # teambcps rules ! wear blue 4 # bcpsblue day tomorrow !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Malam menjelang hari biru, dan di seluruh sekolah, para siswa dan guru sedang berpikir, \"#teambcps adalah yang terbaik! Kenakan pakaian biru untuk #bcpsblue besok!\""
+  },
+  {
+    "image_id": 886730406078304257,
+    "text": "this is the ideal male body . you may not like it , but this is what top male performance looks like . <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ini adalah gambaran ideal tubuh pria. Anda mungkin tidak setuju, tetapi inilah yang menunjukkan performa terbaik seorang pria."
+  },
+  {
+    "image_id": 859489389243752449,
+    "text": "just watched <user> i didn 't even learn no # science .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Baru saja melihat <user>: Saya bahkan tidak belajar ilmu pengetahuan apa pun."
+  },
+  {
+    "image_id": 820418266719866880,
+    "text": "look at maggie 's face . she knows for a fact that her hand holding is messing with the 'straight ' girl .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Perhatikan wajah Maggie. Dia tahu dengan pasti bahwa tangannya yang menggenggam itu membuat gadis yang \"normal\" itu merasa tidak nyaman."
+  },
+  {
+    "image_id": 820418366401875970,
+    "text": "trump 's relationship with russia in one image :",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hubungan Trump dengan Rusia dalam satu gambar:"
+  },
+  {
+    "image_id": 688136577806016514,
+    "text": "after crappy week i would feel so much better giving one of the things listed to several people .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Setelah minggu yang berat, saya akan merasa jauh lebih baik jika saya memberikan beberapa barang dari daftar tersebut kepada beberapa orang."
+  },
+  {
+    "image_id": 817518575019839488,
+    "text": "blessed to receive an offer from the united states military academy at west point ! <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sungguh suatu kehormatan menerima tawaran dari Akademi Militer Amerika Serikat di West Point!"
+  },
+  {
+    "image_id": 921267141009014784,
+    "text": "i never knew <user> was that notorious",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya tidak pernah tahu bahwa <user> begitu terkenal karena alasan yang buruk."
+  },
+  {
+    "image_id": 817520297654022144,
+    "text": "love these guys , true champions , we 'll have some of them on starting at 7 <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat menyukai tim ini, mereka adalah juara sejati. Beberapa dari mereka akan tampil mulai pukul 7."
+  },
+  {
+    "image_id": 864749849689948161,
+    "text": "such a pleasure at times",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Terkadang, sungguh menyenangkan."
+  },
+  {
+    "image_id": 822950049655046145,
+    "text": ". <user> looks like he borrowed his dad 's coat to go to the homecoming dance .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sepertinya dia meminjam jaket ayahnya untuk pergi ke acara dansa reuni."
+  },
+  {
+    "image_id": 818245709589712896,
+    "text": "calum with a fan today ! ( oh goodness he 's so handsome ) | via blink . 1998 on ig",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bertemu dengan penggemar hari ini! (Ya ampun, dia sangat tampan.) | melalui akun Instagram blink.1998."
+  },
+  {
+    "image_id": 822588338582487041,
+    "text": "i really wish this man was our president again . ( credit : <user> )",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat berharap pria ini bisa menjadi presiden kita lagi. (Sumber: <user>)"
+  },
+  {
+    "image_id": 913136746656911361,
+    "text": "keep it classy <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tetaplah bersikap elegan."
+  },
+  {
+    "image_id": 822950699185139716,
+    "text": "packers alumni don majkowski , ezra johnson & david whitehurst at the packeverywhere pep rally in atl !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Alumni Packers, Majkowski, Ezra Johnson, dan David Whitehurst hadir dalam acara \"Pack Everywhere\" di Atlanta!"
+  },
+  {
+    "image_id": 819331874183061505,
+    "text": "somebody come get ya father ....",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Seseorang datang menjemput ayahmu..."
+  },
+  {
+    "image_id": 842819227685916672,
+    "text": "all the inspiration i could muster today . sorry .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Semua inspirasi yang bisa saya kumpulkan hari ini. Maaf."
+  },
+  {
+    "image_id": 824996491790057472,
+    "text": "this doesn 't seem like a problem .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sepertinya ini bukan masalah."
+  },
+  {
+    "image_id": 715364913204502528,
+    "text": "thank god we 're saving this tidbit of yogurt .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Syukurlah, kita menyimpan sedikit yogurt ini."
+  },
+  {
+    "image_id": 818239080924381184,
+    "text": "man i love this",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat menyukai ini."
+  },
+  {
+    "image_id": 822593183704039426,
+    "text": "# riparielle i 'll pray for your family & friends i 'm so sorry .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "riparielle, saya akan berdoa untuk keluarga dan teman-temanmu. Saya sangat menyesal."
+  },
+  {
+    "image_id": 817518189663973381,
+    "text": "<user> lowkey dying inside bc of school and the freezing weather but ur meme queen still at it",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sedikit menderita karena sekolah dan cuaca dingin yang menusuk, tapi ratu meme-ku tetap semangat."
+  },
+  {
+    "image_id": 818603528679813121,
+    "text": "can we talk about how <user> has a framed autographed <user> jersey in what i assume is his home gym ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bisakah kita membicarakan tentang bagaimana <user> memiliki jersey bertanda tangan <user> yang dipajang dalam bingkai, yang sepertinya berada di ruang olahraga pribadinya?"
+  },
+  {
+    "image_id": 920540607105216512,
+    "text": "what some would like us to believe ....",
+    "label": 1,
+    "split": "test",
+    "text_translated": "apa yang menurut sebagian orang ingin kita percayai…."
+  },
+  {
+    "image_id": 819324530774708224,
+    "text": "supernatural capa de caderno rt if you save fav if you like lau",
+    "label": 0,
+    "split": "test",
+    "text_translated": "kemampuan supernatural, lapisan buku catatan, jika Anda menyimpan favorit, jika Anda menyukai."
+  },
+  {
+    "image_id": 819323121857662976,
+    "text": "when your partner returns from the shop without the one thing you asked for .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "ketika pasangan Anda pulang dari toko tanpa membawa barang yang Anda minta."
+  },
+  {
+    "image_id": 822222182872977409,
+    "text": "blessed in honor to receive my 5th offers from the university of wisconsin",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dengan senang hati dan kehormatan, saya menerima tawaran kelima dari Universitas Wisconsin."
+  },
+  {
+    "image_id": 820056690863157248,
+    "text": "oldies",
+    "label": 0,
+    "split": "test",
+    "text_translated": "klasik."
+  },
+  {
+    "image_id": 818238426503737344,
+    "text": "quick workout to help build those abs and bums !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Latihan singkat untuk membantu memperkuat otot perut dan bokong!"
+  },
+  {
+    "image_id": 821869327406264322,
+    "text": "joe jonas is on another level",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Joe Jonas berada di level yang berbeda."
+  },
+  {
+    "image_id": 823317450750038016,
+    "text": "star wars episode iv : a new hope , 1977",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Star Wars Episode IV: Sebuah Harapan Baru, 1977."
+  },
+  {
+    "image_id": 728427096763064322,
+    "text": "i 'm ready now ! by welltbhjuststop",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sudah siap sekarang! oleh welltbhjuststop."
+  },
+  {
+    "image_id": 820057164362420224,
+    "text": "before y 'all start about demi dirt again , remember this . demi for iheart lovato squad",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sebelum kalian mulai membicarakan tentang Demi lagi, ingatlah ini: Demi adalah bagian dari komunitas iHeart Lovato."
+  },
+  {
+    "image_id": 851668637681422337,
+    "text": "retweet if you can relate this",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Retweet jika Anda merasa bisa memahami atau merasakan hal yang sama."
+  },
+  {
+    "image_id": 820055132582846464,
+    "text": "marbled reeses peanut butter cupcakes .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kue muffin rasa selai kacang Reese dengan motif marmer."
+  },
+  {
+    "image_id": 823313134207123456,
+    "text": "this is great <user> exactly exactly exactly !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ini luar biasa! Tepat sekali! Tepat sekali! Tepat sekali!"
+  },
+  {
+    "image_id": 821504769911095298,
+    "text": "my pickups today",
+    "label": 0,
+    "split": "test",
+    "text_translated": "penampakan hari ini."
+  },
+  {
+    "image_id": 820056471496892416,
+    "text": "friday the 13th starter pack ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Paket perlengkapan untuk hari Jumat tanggal 13."
+  },
+  {
+    "image_id": 822947223528869888,
+    "text": "our signs in action at # womensmarchsanjose .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Spanduk dan plakat kami terlihat jelas pada acara #womensmarchsanjose."
+  },
+  {
+    "image_id": 819688824712392704,
+    "text": "live a little",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Nikmati hidup sedikit."
+  },
+  {
+    "image_id": 820054470851723264,
+    "text": "t-minus 2 weeks ...",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dua minggu lagi..."
+  },
+  {
+    "image_id": 939626966214311936,
+    "text": "who can easily pass through this door ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "yang dapat dengan mudah melewati pintu ini..."
+  },
+  {
+    "image_id": 820057787585662976,
+    "text": "immediately ! jesus loves you and wants to spend time with you <user> <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Segera! Yesus mencintai Anda dan ingin menghabiskan waktu bersama Anda."
+  },
+  {
+    "image_id": 820415787349508096,
+    "text": "yesterday : turkey fights with terrorists holding dollars . today : turkey offers citizenship those holding $ 1 million & invest in turkey .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kemarin: Turki terlibat pertempuran dengan kelompok teroris yang memiliki mata uang dolar. Hari ini: Turki menawarkan kewarganegaraan kepada mereka yang memiliki dana sebesar 1 juta dolar dan berinvestasi di Turki."
+  },
+  {
+    "image_id": 817518069165735938,
+    "text": "they 're so dumb",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Mereka sangat bodoh."
+  },
+  {
+    "image_id": 820051331440316416,
+    "text": "sauce broz",
+    "label": 0,
+    "split": "test",
+    "text_translated": "saus brot."
+  },
+  {
+    "image_id": 820419098299482114,
+    "text": "this is so cool these three lads in one photo # petersagan # tdu <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ini sangat keren, ketiga anak muda ini dalam satu foto. #petersagan #tdu <user>"
+  },
+  {
+    "image_id": 728938770842669058,
+    "text": "smart managing from lvg , after a game of us attacking all game we bring on schneiderlin !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Strategi manajemen yang cerdas dari LVG. Setelah sepanjang pertandingan kami terus menyerang, ia justru memasukkan Schneiderlin."
+  },
+  {
+    "image_id": 817519330556571648,
+    "text": "tarjei 's tiny teeth are so precious",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Gigi kecil Tarjei sangat berharga."
+  },
+  {
+    "image_id": 819694245527199745,
+    "text": "mid year enrollees are all settled in on campus and coaches are out recruiting future buffs . the # newera has begun !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Mahasiswa baru semester tengah tahun sudah semuanya terdaftar dan menetap di kampus, sementara para pelatih sedang mencari bibit unggul untuk tim di masa depan. Era baru telah dimulai!"
+  },
+  {
+    "image_id": 817519098741620737,
+    "text": "top target for <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "target utama bagi <user>."
+  },
+  {
+    "image_id": 816796282924564481,
+    "text": "did <user> and <user> just become best friends ? now on # enews we 're getting the inside scoop on all things golden globes !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Apakah <user> dan <user> baru saja menjadi teman baik? Sekarang, di #enews, kami akan memberikan informasi eksklusif tentang semua yang berkaitan dengan Golden Globes!"
+  },
+  {
+    "image_id": 732063857729015808,
+    "text": "i 'm in favor of applying the nordicmodel to this problem . let 's make it illegal to buy clothing .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya mendukung penerapan model Nordik untuk mengatasi masalah ini. Mari kita buat pembelian pakaian menjadi ilegal."
+  },
+  {
+    "image_id": 822229055747608576,
+    "text": "what a pack <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Wah, kelompok yang luar biasa."
+  },
+  {
+    "image_id": 820417382082486273,
+    "text": "the # orcacon2017 program book looks like an old d & d module , complete with a separate cover with maps on the inside . love it !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Buku program #orcacon2017 terlihat seperti modul permainan D&D klasik, lengkap dengan sampul terpisah yang berisi peta di dalamnya. Saya sangat menyukainya!"
+  },
+  {
+    "image_id": 820415727978979330,
+    "text": "get the popcorn ready ... tonight 's snl 's gonna be a good one ! ! ! mypresident",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Siapkan camilan Anda... malam ini acara SNL akan sangat menarik!\nmypresident"
+  },
+  {
+    "image_id": 905874483638099968,
+    "text": "can anyone else relate ? memes funny memes post",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apakah ada orang lain yang merasakan hal yang sama? Meme lucu. Unggahan meme."
+  },
+  {
+    "image_id": 869502896202817536,
+    "text": "the two people who are making india ka naam roshan by not even staying in india",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Dua orang yang mengharumkan nama India, meskipun mereka tidak tinggal di India."
+  },
+  {
+    "image_id": 822585786294013953,
+    "text": "awesome does come in three 's ... <user> <user> and <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kehebatan itu datang dalam tiga bentuk: <user>, <user>, dan <user>."
+  },
+  {
+    "image_id": 823309471464259589,
+    "text": "this was an experience and a half to make ! wouldn 't have even known where to start if it wasnt for <user> , thank you so much \\ ( ^ o ^ ) /",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sungguh pengalaman yang luar biasa! Saya bahkan tidak tahu harus mulai dari mana jika bukan berkat bantuan <user>. Terima kasih banyak. \\ ( ^ o ^ ) /"
+  },
+  {
+    "image_id": 820409183052804096,
+    "text": "the locals at lucky bay <user> are always on hand to give you a few fishing tips if you need them pic : mickenscoe / ig",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Penduduk setempat di Lucky Bay selalu siap membantu memberikan beberapa tips memancing jika Anda membutuhkannya. Foto: mickenscoe / ig"
+  },
+  {
+    "image_id": 819690146727624705,
+    "text": "\" community service for vandalism \" free # indiegame giveaway & # indiedev highlight tomorrow on # indiefeaturefriday come hangout with us ! ! ! ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"pelayanan masyarakat sebagai ganti kerugian akibat vandalisme.\" Hadiah gratis untuk #gameindie dan sorotan untuk #pengembangindie besok dalam acara #indiefeaturefriday. Ayo bergabung bersama kami! ! ! ! !"
+  },
+  {
+    "image_id": 921230857431498752,
+    "text": "glad the rgb shelves were a complete success .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Senang sekali rak-rak RGB tersebut terbukti sangat sukses."
+  },
+  {
+    "image_id": 823312814676865025,
+    "text": "news ⎪ . <user> was named the spoilertv 's 2016 performer of the year by the staff . ( via <user> )",
+    "label": 0,
+    "split": "test",
+    "text_translated": "berita ⎪ <user> dinobatkan sebagai aktor terbaik tahun 2016 oleh tim Spoiltv. (melalui <user>)"
+  },
+  {
+    "image_id": 819324612286746624,
+    "text": "my joint statement with <user> , <user> and <user> on the governor 's budget proposal to # ksleg →",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pernyataan bersama saya dengan <user>, <user>, dan <user> mengenai usulan anggaran gubernur kepada #ksleg →"
+  },
+  {
+    "image_id": 820048231803584516,
+    "text": "somebody came on your window",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Seseorang mengetuk jendela Anda."
+  },
+  {
+    "image_id": 818238111599751168,
+    "text": "all glammed up ! <user> & <user> are headed to the",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tampil cantik sempurna! <user> dan <user> akan pergi ke..."
+  },
+  {
+    "image_id": 821504594274566146,
+    "text": "i have a thing for jumping in the crowd | sydney you were too live | <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya suka sekali melompat ke tengah kerumunan. Sydney, acaranya sangat meriah. <user>"
+  },
+  {
+    "image_id": 833898817795850240,
+    "text": "breakfast without bacon ? ? ? huh .. what 's the point ........",
+    "label": 1,
+    "split": "test",
+    "text_translated": "sarapan tanpa bacon? Hmmm... apa gunanya...?"
+  },
+  {
+    "image_id": 819690356421730304,
+    "text": "fersure babe ...",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tentu saja, sayang."
+  },
+  {
+    "image_id": 816795698821677057,
+    "text": "search",
+    "label": 0,
+    "split": "test",
+    "text_translated": "pencarian"
+  },
+  {
+    "image_id": 840859165736226816,
+    "text": "especially here on twitter with my fitfam ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "terutama di sini, di Twitter, bersama komunitas kebugaran saya..."
+  },
+  {
+    "image_id": 862450848978399234,
+    "text": "a d . c . team hasn 't won a spot in a conference final since 1998 ? really ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tim a d . c. belum meraih tempat di final sebuah konferensi sejak tahun 1998? Benarkah?"
+  },
+  {
+    "image_id": 822948241113284608,
+    "text": "smh trump has been in office for 1 day and the gas prices have already started to skyrocket",
+    "label": 0,
+    "split": "test",
+    "text_translated": "smh, Trump baru menjabat satu hari, dan harga bahan bakar sudah mulai meroket dengan cepat."
+  },
+  {
+    "image_id": 819330272802050048,
+    "text": "motorists - texting and driving is illegal ! put your phone down and pay attention to the road . <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pengemudi – menggunakan ponsel saat mengemudi adalah tindakan ilegal! Letakkan ponsel Anda dan perhatikan jalan."
+  },
+  {
+    "image_id": 819324289321234436,
+    "text": "sheybi i told you not to buy mr eazi 's ticket ... now he has rubbish your country",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sudah bilang jangan beli tiket Mr Eazi... sekarang dia malah mempermalukan negara Anda."
+  },
+  {
+    "image_id": 872819361588838401,
+    "text": "classy <user> ! way to aspire to aldi standards . up next : pay-for-play shopping carts",
+    "label": 1,
+    "split": "test",
+    "text_translated": "bergaya sekali! Cara yang tepat untuk meniru standar Aldi. Selanjutnya: keranjang belanja berbayar."
+  },
+  {
+    "image_id": 871913762042859521,
+    "text": "\" we recommend you buy the new edition for $ 10,000 \" ~",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kami merekomendasikan Anda membeli edisi terbaru dengan harga $10.000."
+  },
+  {
+    "image_id": 821504688696610816,
+    "text": "who needs a boyfriend when you have your girlfriend 's love you <user> both dressed by <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Siapa butuh pacar, jika kamu sudah memiliki cinta dari pacarmu? Keduanya berpakaian dengan gaya yang sama, oleh <user>."
+  },
+  {
+    "image_id": 825264733444005888,
+    "text": "this is good news # nhs # bmi <user> <user> just mean ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ini berita bagus. # NHS # BMI <user> <user> hanya sekadar! !"
+  },
+  {
+    "image_id": 822588497345314820,
+    "text": "# thebyebyeman still in theaters and here are release dates to see me wreak havoc as the title character in other countries around the world !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "# Film \"The Bye Bye Man\" masih dapat disaksikan di bioskop, dan berikut adalah tanggal rilis film tersebut di berbagai negara di seluruh dunia, di mana Anda dapat melihat saya berperan sebagai karakter utama yang menimbulkan kekacauan!"
+  },
+  {
+    "image_id": 819331163240198144,
+    "text": "dominic purcell no painel de prison break",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dominic Purcell tidak hadir dalam acara Prison Break."
+  },
+  {
+    "image_id": 914842162776412160,
+    "text": "how can we do iot according to ikea standards <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Bagaimana kita dapat menerapkan teknologi IoT sesuai dengan standar IKEA?"
+  },
+  {
+    "image_id": 932332998590046208,
+    "text": "<user> thanks to whoever decided this was a good time to show stats .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Terima kasih kepada siapa pun yang memutuskan ini adalah waktu yang tepat untuk menampilkan statistik."
+  },
+  {
+    "image_id": 728697454175080449,
+    "text": "thanks for the advanced notice <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Terima kasih atas pemberitahuannya sebelumnya."
+  },
+  {
+    "image_id": 822955230216200194,
+    "text": "in case anyone still wonders where <user> stands , she will \" not disavow anyone on the right . \" including literal nazis .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Apabila masih ada yang bertanya-tanya tentang pandangan <user>, dia menyatakan bahwa dia \"tidak akan menarik kembali dukungan dari siapapun di pihak kanan.\" Termasuk pula, mereka yang secara terang-terangan menganut ideologi Nazi."
+  },
+  {
+    "image_id": 818604520058089478,
+    "text": "dream comes true <user> finally selfie with <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Impian menjadi kenyataan. Akhirnya, foto bersama <user>."
+  },
+  {
+    "image_id": 806649907222351872,
+    "text": "why would any media and journalism schools want to support and teach technologies used by national news agencies ! ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Mengapa lembaga pendidikan media dan jurnalisme ingin mendukung dan mengajarkan teknologi yang digunakan oleh kantor berita nasional?"
+  },
+  {
+    "image_id": 716884206261932032,
+    "text": "keep rolling your eyes . maybe you 'll find a brain back there .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Terus saja memutar mata Anda. Siapa tahu, Anda mungkin akan menemukan otak di sana."
+  },
+  {
+    "image_id": 819332360638492673,
+    "text": "jeremy corbyn is right - our nhs is facing a real crisis and it 's up to us to fight .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Jeremy Corbyn benar – sistem kesehatan nasional kita menghadapi krisis nyata, dan menjadi tanggung jawab kita semua untuk memperjuangkannya."
+  },
+  {
+    "image_id": 821867439050801152,
+    "text": "see you later mike baird and try not to fall into a coal mine on your way out . love , the environment",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sampai jumpa, Mike Baird. Hati-hati, jangan sampai terjatuh ke dalam tambang batu bara saat Anda keluar. Salam, dari lingkungan sekitar."
+  },
+  {
+    "image_id": 915222422713962496,
+    "text": "smack an outer policeman upside his / her damn head campaign ... \" what 's gangstalking ? \" \" what 's gaslighting ? \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "memukul seorang petugas keamanan di luar hingga terhuyung, kampanye... \"Apa itu *gangstalking*?\" \"Apa itu *gaslighting*?\""
+  },
+  {
+    "image_id": 822585537265602560,
+    "text": "a girl group",
+    "label": 0,
+    "split": "test",
+    "text_translated": "grup perempuan."
+  },
+  {
+    "image_id": 818241523145986048,
+    "text": "join us tonight at the <user> , and share your moments that are # worthsharing - - beauty , fashion , celebs , and everything in between !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bergabunglah dengan kami malam ini di <user>, dan bagikan momen-momen berharga Anda – keindahan, mode, selebriti, dan segala hal lainnya!"
+  },
+  {
+    "image_id": 923690483079155712,
+    "text": "when she likes you but just as a friend",
+    "label": 1,
+    "split": "test",
+    "text_translated": "ketika dia menyukai Anda, tetapi hanya sebagai seorang teman."
+  },
+  {
+    "image_id": 822229877852143617,
+    "text": "the uso & nfl have been partners for 50 years ! another fact - we our # steelers ! let 's go",
+    "label": 0,
+    "split": "test",
+    "text_translated": "USO dan NFL telah menjadi mitra selama 50 tahun! Fakta lainnya – kami adalah penggemar Steelers! Ayo!"
+  },
+  {
+    "image_id": 817519834229604356,
+    "text": "girls varsity basketball win over springbrook ! congratulations blazers !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tim bola basket putri meraih kemenangan atas Springbrook! Selamat untuk tim Blazers!"
+  },
+  {
+    "image_id": 821867059160186880,
+    "text": "people 's prospective of you as real , loving , nice , kind , sweet and selfless is hard to change , no matter how desperately they tried",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pandangan orang terhadap Anda sebagai sosok yang nyata, penyayang, baik, ramah, manis, dan tanpa pamrih, sangat sulit untuk diubah, meskipun mereka telah berusaha sekuat tenaga."
+  },
+  {
+    "image_id": 818238497752498176,
+    "text": "no matter what looks we see tonight , we should never forget these iconic lupita nyong 'o oscars looks . they can 't be beat .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Apapun penampilan yang kita lihat malam ini, kita tidak boleh melupakan penampilan ikonik Lupita Nyong'o di acara Oscar. Penampilan itu tak tertandingi."
+  },
+  {
+    "image_id": 823310457595424768,
+    "text": "mom , dad & son . <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "ibu, ayah, dan anak laki-laki."
+  },
+  {
+    "image_id": 822226723701919744,
+    "text": "is it just us or does that \" usa \" firework look suspiciously like \" usr ? \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apakah hanya kami yang merasa bahwa kembang api bertuliskan \"USA\" itu terlihat sangat mirip dengan \"USR\"?"
+  },
+  {
+    "image_id": 819331382728159233,
+    "text": "tyler being tyler",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tyler, menjadi dirinya sendiri."
+  },
+  {
+    "image_id": 725303238623432704,
+    "text": "whaaaat like if you had a laugh …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ya ampun, seperti kalau kamu tertawa…"
+  },
+  {
+    "image_id": 823312570769620992,
+    "text": "straight like that",
+    "label": 0,
+    "split": "test",
+    "text_translated": "lurus seperti itu."
+  },
+  {
+    "image_id": 823318471005962241,
+    "text": "guys , we can 't just use cord covers . we have thousands of plugged in and stored cords . this is jons lively hood",
+    "label": 0,
+    "split": "test",
+    "text_translated": "teman-teman, kita tidak bisa hanya menggunakan penutup kabel. Kita memiliki ribuan kabel yang terhubung dan disimpan. Ini adalah mata pencaharian Jons."
+  },
+  {
+    "image_id": 829119673719414784,
+    "text": "# newvettingquestions do you promise to assimilate so help you god ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# pertanyaan-pertanyaan pemeriksaan baru: apakah Anda berjanji untuk menyesuaikan diri? Demikian yang Anda janjikan."
+  },
+  {
+    "image_id": 822954773938835456,
+    "text": "tell me again how oppressed you are in your country where you can vote and live as you want to freely ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ceritakan lagi padaku bagaimana Anda merasa tertekan di negara Anda, padahal Anda bisa memilih dan hidup sesuai keinginan Anda dengan bebas?"
+  },
+  {
+    "image_id": 823309677048033280,
+    "text": "scenicsunday ... 1974 911carrera | > alexisgoure <user> <user> <user> <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Scenicsunday... 1974 911 Carrera | > alexisgoure <pengguna> <pengguna> <pengguna> <pengguna> <pengguna> <pengguna>."
+  },
+  {
+    "image_id": 819327505249292292,
+    "text": "post your best saltlife shots and we may use your images for our quote graphics ! tag <user> too !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bagikan foto-foto terbaik gaya hidup Anda, dan kami mungkin akan menggunakan gambar-gambar tersebut untuk desain kutipan kami! Jangan lupa tag <user> juga!"
+  },
+  {
+    "image_id": 820053502982356992,
+    "text": "# copb takes the pep rally",
+    "label": 0,
+    "split": "test",
+    "text_translated": "# COPB Meramaikan Acara Semangat Tim."
+  },
+  {
+    "image_id": 819330897862414336,
+    "text": ". <user> answers my question at the press briefing today .",
+    "label": 0,
+    "split": "test",
+    "text_translated": ". Bapak/Ibu [user] menjawab pertanyaan saya pada konferensi pers hari ini."
+  },
+  {
+    "image_id": 822956217979076608,
+    "text": "ok . don 't do this prank with a trini girlfriend . <user> love meeeeeeeeee",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Oke. Jangan lakukan lelucon semacam itu dengan pacar Anda yang berasal dari Trinidad dan Tobago. <user> cintai akuuuuuuu."
+  },
+  {
+    "image_id": 821504592135553024,
+    "text": "can he do anything wrong ! ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bisakah dia melakukan kesalahan?"
+  },
+  {
+    "image_id": 818238648214814722,
+    "text": "rest day ? nope , it 's mechanic time this is dakar ! preparing our buggies for week 2",
+    "label": 0,
+    "split": "test",
+    "text_translated": "hari libur? tidak, ini waktunya mekanik. Ini Dakar! Kami sedang mempersiapkan buggy kami untuk minggu kedua."
+  },
+  {
+    "image_id": 862125268621774849,
+    "text": "well , i guess that about settles it .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Baiklah, sepertinya itu sudah cukup untuk saat ini."
+  },
+  {
+    "image_id": 819685456476393472,
+    "text": "instagram not approved .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Instagram tidak disetujui."
+  },
+  {
+    "image_id": 819693783700926465,
+    "text": "skopelos island , sporades , greece",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pulau Skopelos, Kepulauan Sporades, Yunani."
+  },
+  {
+    "image_id": 939591306392821760,
+    "text": "\" get u a friend like this \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "\"Beruntung sekali memiliki teman seperti ini.\""
+  },
+  {
+    "image_id": 926684079021465600,
+    "text": ". <user> the light sentence for bergdahl was thanks to you . it was your comments that forced the judge to give him a slap on the wrist !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hukuman ringan yang diberikan kepada Bergdahl adalah berkat Anda. Justru komentar-komentar Anda yang memaksa hakim untuk memberikan hukuman yang sangat ringan kepadanya!"
+  },
+  {
+    "image_id": 819691848578920450,
+    "text": "blessed to have received my 21st offer from the university of buffalo",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat bersyukur telah menerima tawaran masuk ke-21 dari Universitas Buffalo."
+  },
+  {
+    "image_id": 820409393439272962,
+    "text": "this is amazing",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ini luar biasa."
+  },
+  {
+    "image_id": 929033123987316736,
+    "text": "if i don 't change my profile pic to one of me when i was in the service , how will anyone know they need to thank me ? !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Jika saya tidak mengganti foto profil saya dengan foto saya saat saya bertugas, bagaimana orang akan tahu bahwa mereka perlu berterima kasih kepada saya?"
+  },
+  {
+    "image_id": 849628192944074752,
+    "text": "time to work out . it 's a shame i don 't have a nicer place to go for a run .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saatnya berolahraga. Sayang sekali saya tidak memiliki tempat yang lebih baik untuk berlari."
+  },
+  {
+    "image_id": 822948215783825408,
+    "text": "bison win ! rookie cj williams pours in a career-high 30 pts to lead <user> to a 78-63 victory over n . c . a & t !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bison menang! Pemain muda CJ Williams mencetak 30 poin, rekor tertinggi dalam karirnya, untuk membawa <user> meraih kemenangan 78-63 atas N.C. A&T!"
+  },
+  {
+    "image_id": 821505695757516801,
+    "text": "rt if you think the douche on the left should do some more man on the street interviews this semester .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Jika Anda berpikir bahwa orang yang ada di sebelah kiri tersebut sebaiknya melakukan lebih banyak wawancara langsung dengan masyarakat semester ini."
+  },
+  {
+    "image_id": 817520075028725760,
+    "text": "ehehehehe yeeees riding bull machine mccreed color sketches . i am sooo not sorry * runs away *",
+    "label": 0,
+    "split": "test",
+    "text_translated": "ehehehehe ya, sedang menggunakan mesin berbentuk banteng, dengan sketsa warna karakter McCreed. Saya sama sekali tidak menyesal *menghindar*"
+  },
+  {
+    "image_id": 731825216184303617,
+    "text": "love a good sale at the <user> shop !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya suka sekali penawaran menarik di toko <user>!"
+  },
+  {
+    "image_id": 719464800300830720,
+    "text": "happy testing monday ! eat a good breakfast",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Selamat hari Senin, semoga sukses dalam pengujian! Jangan lupa sarapan yang bergizi."
+  },
+  {
+    "image_id": 889833114674970625,
+    "text": "a smile is more than a mask . it is a strength ; a weapon against atrocities of the people and the world we live in .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Senyum lebih dari sekadar topeng. Senyum adalah kekuatan; sebuah perlawanan terhadap kejahatan yang dilakukan oleh manusia dan dunia tempat kita hidup."
+  },
+  {
+    "image_id": 819688404833091584,
+    "text": "dear california : what ? dear new york : seriously ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "California tersayang: Apa? New York tersayang: Serius?"
+  },
+  {
+    "image_id": 821503863480053761,
+    "text": "happy and blessed to announce my commitment to lamar university",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dengan gembira dan bersyukur, saya mengumumkan komitmen saya untuk melanjutkan studi di Universitas Lamar."
+  },
+  {
+    "image_id": 836354513799901184,
+    "text": "do you know what we need ? a bigger military . have some pie",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apakah Anda tahu apa yang kita butuhkan? Angkatan bersenjata yang lebih besar. Silakan makan kue."
+  },
+  {
+    "image_id": 693410085620461569,
+    "text": "great . we can 't wait to hunt the field for that later ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Bagus sekali. Kami tidak sabar untuk menjelajahi area tersebut nanti..."
+  },
+  {
+    "image_id": 836067083452571648,
+    "text": "i 'm not attending the white house correspondents ' association dinner this year .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya tidak akan menghadiri acara makan malam Asosiasi Koresponden Gedung Putih tahun ini."
+  },
+  {
+    "image_id": 820049038078668800,
+    "text": "comin thru",
+    "label": 0,
+    "split": "test",
+    "text_translated": "sedang datang."
+  },
+  {
+    "image_id": 820050594064990208,
+    "text": "0x7fbfbd",
+    "label": 0,
+    "split": "test",
+    "text_translated": "0x7fbfbd"
+  },
+  {
+    "image_id": 819686108875329536,
+    "text": "we are very excited to unveil our brand new logo as we move from the main gym to the practice gym ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kami sangat senang memperkenalkan logo baru kami seiring dengan perpindahan dari ruang olahraga utama ke ruang latihan!"
+  },
+  {
+    "image_id": 820415263258673152,
+    "text": "excited and blessed to announce my commitment to jacksonville state university !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dengan gembira dan bersyukur, saya mengumumkan komitmen saya untuk melanjutkan studi di Jacksonville State University!"
+  },
+  {
+    "image_id": 823316196812615681,
+    "text": "retweet if you love # mattvp's shirt !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Retweet jika Anda menyukai kemeja #mattvp!"
+  },
+  {
+    "image_id": 822224708015898625,
+    "text": "* filling out a job application * “ how do you handle a difficult situation with a rude customer ? \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "* mengisi formulir lamaran pekerjaan\n* \"Bagaimana Anda menangani situasi sulit dengan pelanggan yang tidak sopan?\""
+  },
+  {
+    "image_id": 819323891332026371,
+    "text": "after midnight coffee ~ ~",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kopi setelah tengah malam."
+  },
+  {
+    "image_id": 731232246997393409,
+    "text": "1:1 # sekurt love they",
+    "label": 1,
+    "split": "test",
+    "text_translated": "1:1 # sekurt mencintai mereka."
+  },
+  {
+    "image_id": 822951272538050561,
+    "text": "# ig | <user> posted on instagram",
+    "label": 0,
+    "split": "test",
+    "text_translated": "# ig | <pengguna> mengunggah di Instagram."
+  },
+  {
+    "image_id": 819686682983354369,
+    "text": "# the100 has so much more representation than most shows do .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Serial \"The 100\" memiliki representasi yang jauh lebih beragam dibandingkan kebanyakan serial lainnya."
+  },
+  {
+    "image_id": 846431589567549440,
+    "text": "<user> were here today to fix my line so it stayed at 10mb . they did a good job no ? <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "\"<user> hari ini datang untuk memperbaiki saluran internet saya agar kecepatannya stabil di 10 Mbps. Mereka bekerja dengan baik, bukan? <user>\""
+  },
+  {
+    "image_id": 907743880921186305,
+    "text": "tuesdaythoughts this is so true , life has never given me lemons but it has given me some great coping mechanisms .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "selasathari. Ini sangat benar, hidup memang belum pernah memberikan saya kesulitan, tetapi telah memberikan saya beberapa cara yang efektif untuk menghadapinya."
+  },
+  {
+    "image_id": 868555509816807426,
+    "text": "oh , no . this is a mistake . russia is a potential threat . nato must protect , isn 't it ? !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Oh, tidak. Ini adalah sebuah kesalahan. Rusia merupakan potensi ancaman. NATO harus melindungi, bukan?"
+  },
+  {
+    "image_id": 873360782548971521,
+    "text": "is an art . deal with it .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "itu adalah sebuah seni. Terimalah."
+  },
+  {
+    "image_id": 823311332048896000,
+    "text": "oh my god plan a and starship are in the same building",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ya ampun, ternyata Plan A dan Starship berada di gedung yang sama."
+  },
+  {
+    "image_id": 820357964393578498,
+    "text": "<user> district . what a hellhole eh ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Distrik itu. Tempat yang sangat buruk, ya kan?"
+  },
+  {
+    "image_id": 818605289402408960,
+    "text": "the names corn",
+    "label": 0,
+    "split": "test",
+    "text_translated": "nama-nama jagung."
+  },
+  {
+    "image_id": 820412795602739200,
+    "text": "josh is gonna light up the darkness in my life with his hair",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Josh akan membawa cahaya dalam hidupku dengan rambutnya."
+  },
+  {
+    "image_id": 820054163744641025,
+    "text": ". <user> took more than $ 300k from bigpharma . is that why he voted against affordable rx meds ? let 's ask him ..",
+    "label": 0,
+    "split": "test",
+    "text_translated": ". <user> menerima lebih dari 300 ribu dolar dari perusahaan farmasi besar. Apakah karena itulah dia memberikan suara menentang obat-obatan terjangkau? Mari kita tanyakan langsung kepadanya."
+  },
+  {
+    "image_id": 822223235294990336,
+    "text": "this is a year old drawing but i ran into it again and i still love it",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ini adalah gambar yang sudah berusia setahun, tetapi saya menemukannya lagi dan saya masih sangat menyukainya."
+  },
+  {
+    "image_id": 820416964514447360,
+    "text": "lucho : \" based on how he 's trained for last few months , aleix is ready to play . he 's proved his manager wrong & he 's ready to compete . \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Lucho: \"Berdasarkan bagaimana dia berlatih selama beberapa bulan terakhir, Aleix sudah siap untuk bermain. Dia telah membuktikan manajernya salah, dan dia siap untuk berkompetisi.\""
+  },
+  {
+    "image_id": 917171444089544704,
+    "text": "<user> what did you say ? say it again so i can record your fake_boycott , pretty please ? for the !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apa yang Anda katakan? Ulangi lagi, tolong? Saya ingin merekamnya."
+  },
+  {
+    "image_id": 904043446821892098,
+    "text": "guy moves to # bethesda from # nyc & doesn 't understand a bethesdan 's fear of walking in rainfall so he responds w / extreme .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Seorang pria pindah dari New York ke Bethesda dan tidak mengerti mengapa warga Bethesda takut berjalan di tengah hujan. Ia kemudian merespons dengan nada yang berlebihan."
+  },
+  {
+    "image_id": 911105397972336640,
+    "text": "amazing deals on amazonindia amazon . ₹ 2 off , ₹ 10 extra ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Penawaran menarik di Amazon India. Diskon ₹ 2, tambahan ₹ 10..."
+  },
+  {
+    "image_id": 684922233274380288,
+    "text": "when preparing a presentation , giant fonts never lie . doesn 't matter what it says just make the font huge .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saat mempersiapkan presentasi, ukuran huruf yang besar tidak pernah salah. Tidak peduli apa isinya, pastikan saja ukuran hurufnya sangat besar."
+  },
+  {
+    "image_id": 821869230333120513,
+    "text": "incredible ! three days after fed report slammed cpd training , city had a training session to \" fix \" a problem . must 've been good training .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Luar biasa! Tiga hari setelah laporan dari lembaga *Federal* mengkritik pelatihan kepolisian (*CPD*), pemerintah kota mengadakan sesi pelatihan untuk \"mengatasi\" masalah tersebut. Pasti pelatihan yang sangat baik."
+  },
+  {
+    "image_id": 944662262563909636,
+    "text": "loved bright , i guess hackers are at it again manipulating the audience score this movie es really good , i don 't think these critics get the concept and i completely removed from what general audience like to see in a movie <user> did an amazing job ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sangat menyukai film ini, sepertinya para peretas kembali melakukan manipulasi terhadap skor penonton. Film ini benar-benar bagus, saya rasa para kritikus ini belum memahami konsepnya, dan film ini sangat berbeda dari apa yang umumnya disukai penonton. <user> telah melakukan pekerjaan yang luar biasa."
+  },
+  {
+    "image_id": 891904969950937088,
+    "text": "when people ask me - i answer .......",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ketika orang bertanya kepada saya, saya menjawab…"
+  },
+  {
+    "image_id": 819328103218638852,
+    "text": "\" the blood \" , 2017 . <user> <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Darah\", 2017. <pengguna> <pengguna> <pengguna>"
+  },
+  {
+    "image_id": 822584632319287298,
+    "text": "i did it ... i graduated high school yesterday . whoop .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya berhasil... saya lulus SMA kemarin. Hore!"
+  },
+  {
+    "image_id": 820415735449186304,
+    "text": "everyone loves",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Semua orang menyukai."
+  },
+  {
+    "image_id": 823312691708182529,
+    "text": "the current writer of captain america vs . the co-creator of captain america",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Penulis Captain America saat ini, berhadapan dengan salah satu pencipta Captain America."
+  },
+  {
+    "image_id": 822586309999022080,
+    "text": "agree the new recruitment poster for the united states marine corps . . <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya setuju dengan desain poster rekrutmen baru untuk Korps Marinir Amerika Serikat."
+  },
+  {
+    "image_id": 725348555326689281,
+    "text": "yeah i am",
+    "label": 1,
+    "split": "test",
+    "text_translated": "ya, saya."
+  },
+  {
+    "image_id": 820054311623196672,
+    "text": "talunin natin pls hahaha wow competitive",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ayo kita kalahkan mereka, ya. Hahaha, keren, semangat sekali."
+  },
+  {
+    "image_id": 820410801756504064,
+    "text": "great energy from the cougs of <user> !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Semangat luar biasa dari komunitas <user>!"
+  },
+  {
+    "image_id": 832077099523567617,
+    "text": "i 'm definitely the latter .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tentu saja, saya yang kedua."
+  },
+  {
+    "image_id": 737068226983514112,
+    "text": "<user> it 's rained every day for a week dropping at least <num> inches .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hujan turun setiap hari selama seminggu terakhir, dengan curah hujan minimal <num> inci."
+  },
+  {
+    "image_id": 818606853584195584,
+    "text": "# clemson qb deshaun watson is warming up",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pemain quarterback Clemson, Deshaun Watson, sedang melakukan pemanasan."
+  },
+  {
+    "image_id": 818245344463097857,
+    "text": "literally just four pictures of millie bobby brown slaying the red carpet .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hanya empat foto Millie Bobby Brown yang tampil memukau di karpet merah."
+  },
+  {
+    "image_id": 820054754160164865,
+    "text": "just read an excellent biography of yer man john mcternan",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Baru saja membaca biografi yang sangat bagus tentang John McTernan."
+  },
+  {
+    "image_id": 884095527213727745,
+    "text": "<user> great investment in . <user> !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Investasi yang sangat baik."
+  },
+  {
+    "image_id": 822589843570049031,
+    "text": "journalism students researching their career options after graduation",
+    "label": 1,
+    "split": "test",
+    "text_translated": "mahasiswa jurnalistik yang sedang meneliti berbagai pilihan karir setelah lulus."
+  },
+  {
+    "image_id": 818604864116846596,
+    "text": "con mis pannas first game ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pertandingan pertama saya sangat menyenangkan!"
+  },
+  {
+    "image_id": 718614378883477504,
+    "text": "never !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Tidak!"
+  },
+  {
+    "image_id": 820056423086358528,
+    "text": "news :: methane 's \" the devil 's own ' digital release and cd pre-sale 2/17 <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "berita :: Rilis digital dan pra-penjualan CD untuk \"Methane's 'The Devil's Own'\" dimulai pada 17 Februari."
+  },
+  {
+    "image_id": 820781722505768961,
+    "text": "i am so proud to be a columnist at <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sangat bangga menjadi seorang kolumnis di <user>."
+  },
+  {
+    "image_id": 822223182660833280,
+    "text": "in recognition of art 's power to foster tolerance and empathy , we 're offering pay-what-you-wish admission tomorrow from 11am to 6pm .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sebagai pengakuan atas kekuatan seni dalam memupuk toleransi dan empati, kami menawarkan tiket masuk dengan sistem donasi sukarela besok, mulai pukul 11.00 hingga 18.00."
+  },
+  {
+    "image_id": 822947150611017729,
+    "text": "today was our 700th career sec win !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hari ini adalah kemenangan ke-700 dalam karier kami!"
+  },
+  {
+    "image_id": 861580977235255296,
+    "text": "this happens to me quite often ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hal ini sering terjadi pada saya..."
+  },
+  {
+    "image_id": 699032054638444544,
+    "text": "good thing we have laws that deter us from this . especially in a public restroom . we need bigger gov 't .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Untungnya kita memiliki undang-undang yang mencegah tindakan seperti ini. Terutama di fasilitas umum seperti toilet. Kita membutuhkan pemerintahan yang lebih kuat."
+  },
+  {
+    "image_id": 820417903178575872,
+    "text": "blessed to receive an offer from sterling college and coach eliserio !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sangat bersyukur menerima tawaran dari Sterling College dan pelatih Eliserio!"
+  },
+  {
+    "image_id": 698000362272395264,
+    "text": "cleary some of the <user> 's best officials for this evening 's unbiased capswild game !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Jelas, beberapa pejabat terbaik dari <user> akan hadir dalam pertandingan Capswild yang tidak memihak malam ini!"
+  },
+  {
+    "image_id": 820419874132525058,
+    "text": "catch and release",
+    "label": 0,
+    "split": "test",
+    "text_translated": "tangkap dan lepas."
+  },
+  {
+    "image_id": 847132915272237058,
+    "text": "stewie woke boo and me up so many times last night . i 'm glad he 's able to relax now .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Stewie membangunkan Boo dan saya berkali-kali tadi malam. Saya senang dia sekarang bisa beristirahat dengan tenang."
+  },
+  {
+    "image_id": 822227149327200257,
+    "text": "duo <user> live at the <user> in london . photos by <user> .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "duo <user> tampil di <user> di London. Foto oleh <user>."
+  },
+  {
+    "image_id": 904997917173284864,
+    "text": "\" some people are so poor , all they have is money . \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "\"Beberapa orang begitu miskin, satu-satunya yang mereka miliki hanyalah uang.\""
+  },
+  {
+    "image_id": 819693630369644545,
+    "text": "we spy <user> at",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kami melihat <user> di."
+  },
+  {
+    "image_id": 831612927199289344,
+    "text": "<user> you guys sure know how to run a business . thank you so much for your time management skills .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Anda benar-benar ahli dalam menjalankan bisnis. Terima kasih banyak atas kemampuan manajemen waktu yang luar biasa."
+  },
+  {
+    "image_id": 921382901421367298,
+    "text": "steve irwin spoke the truth",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Steve Irwin mengatakan yang sebenarnya."
+  },
+  {
+    "image_id": 820411351575265281,
+    "text": "time for my saturday goodnight tweets my twitterarty . this is a relaxing beautiful piece of art by george clausen h",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sudah waktunya untuk unggahan singkat saya di Twitter setiap Sabtu malam, karya seni dari seorang seniman. Ini adalah sebuah karya seni yang menenangkan dan indah, karya George Clausen."
+  },
+  {
+    "image_id": 875700385998155777,
+    "text": "lol <user> quoting <user> ... very insightful and inspiring . never heard one before .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "lol <user> mengutip <user>... sangat berwawasan dan menginspirasi. Belum pernah mendengar yang seperti ini sebelumnya."
+  },
+  {
+    "image_id": 820413273694674944,
+    "text": "my tv is at the new crib . watching playoff football all weekend on this goddam r kelly tv",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Televisi saya ada di rumah baru saya. Saya akan menonton pertandingan sepak bola playoff sepanjang akhir pekan di televisi ini."
+  },
+  {
+    "image_id": 819323163431477248,
+    "text": "have you checked out the titles from <user> lately ? there are some damn fine books there . damn fine .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Apakah Anda sudah melihat-lihat koleksi buku dari <user> belakangan ini? Ada beberapa buku yang sangat bagus di sana. Benar-benar bagus."
+  },
+  {
+    "image_id": 723356775836213248,
+    "text": "like if you were friendzoned too .. …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "seperti jika Anda juga pernah ditolak cintanya…"
+  },
+  {
+    "image_id": 925000460565655554,
+    "text": "halloween",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Halloween."
+  },
+  {
+    "image_id": 818606310933544960,
+    "text": "pictures from # inauguration2017 ( 7 )",
+    "label": 0,
+    "split": "test",
+    "text_translated": "foto-foto dari #pelantikan2017 (7)"
+  },
+  {
+    "image_id": 823971155061116928,
+    "text": "i need this jumper !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya butuh sweater ini!"
+  },
+  {
+    "image_id": 819693982737375232,
+    "text": "cleveland ..... who 's seeing the devil tonight ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Cleveland... Siapa yang akan menyaksikan pertunjukan \"The Devil\" malam ini?"
+  },
+  {
+    "image_id": 818242781026009089,
+    "text": "sugar , spice , & everything nice",
+    "label": 0,
+    "split": "test",
+    "text_translated": "gula, rempah, dan segala sesuatu yang baik."
+  },
+  {
+    "image_id": 819685832776962048,
+    "text": "some redwings fans are checking out the <user> centennial fan arena set up outside of the aac . come on down if you 're in town .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Beberapa penggemar Redwings sedang mengunjungi area khusus yang didirikan untuk merayakan seratus tahun klub di luar arena AAC. Jika Anda sedang berada di kota ini, silakan datang dan bergabung bersama kami."
+  },
+  {
+    "image_id": 819331062551736322,
+    "text": "thank you for your service , president obama !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Terima kasih atas pengabdiannya, Bapak Obama!"
+  },
+  {
+    "image_id": 819326170864975872,
+    "text": "farewell to obama",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Perpisahan dengan Obama."
+  },
+  {
+    "image_id": 897399265236004865,
+    "text": "i find i talk to myself a lot on <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sering berbicara sendiri ketika sedang menggunakan <user>."
+  },
+  {
+    "image_id": 822953263058321408,
+    "text": "# 15añosescondidos complicidad",
+    "label": 0,
+    "split": "test",
+    "text_translated": "15 tahun tersembunyi, terlibat."
+  },
+  {
+    "image_id": 853329965160558592,
+    "text": "nice driving <user> - blocking intersections is really safe .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "mengemudi yang baik, <user> – memblokir persimpangan itu benar-benar aman."
+  },
+  {
+    "image_id": 822591613969006596,
+    "text": "expect heavy rain , roadway flooding along i - 10 , i - 45 ( gulf ) and 610 loop . avoid travel if you can . flood advisory in effect til 8: 45p",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Diperkirakan akan terjadi hujan deras, yang dapat menyebabkan genangan air di jalan raya sepanjang jalur I-10, I-45 (Gulf), dan jalur lingkar 610. Hindari bepergian jika memungkinkan. Peringatan banjir berlaku hingga pukul 20:45."
+  },
+  {
+    "image_id": 820409115860078592,
+    "text": "look how happy <user> was when <user> picked her ! again , welcome to fckc ! ( via jenny chuang - vavel usa )",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Lihat betapa bahagianya <user> ketika <user> memilihnya! Sekali lagi, selamat datang di fckc! (melalui Jenny Chuang - Vavel USA)."
+  },
+  {
+    "image_id": 820052550057533440,
+    "text": ". <user> fits right in with the <user> way .",
+    "label": 0,
+    "split": "test",
+    "text_translated": ". <user> sangat cocok dengan cara kerja <user>."
+  },
+  {
+    "image_id": 735819270106419201,
+    "text": "# funny ! and a male friend sends this over lmao true tho .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Lucu sekali! Dan seorang teman pria mengirimkan ini padaku, haha, benar juga."
+  },
+  {
+    "image_id": 822585731709341696,
+    "text": "time mag just shared the cover of next week 's issue - - coming out on monday",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Majalah Time baru saja merilis sampul edisi minggu depan – yang akan diterbitkan pada hari Senin."
+  },
+  {
+    "image_id": 733550479888670720,
+    "text": "destroy the like button …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hapus tombol \"suka\" tersebut."
+  },
+  {
+    "image_id": 921779205842657280,
+    "text": "salina central state qualifiers 2017 . sorry , but you have one more week of practice .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kualifikasi tingkat provinsi Salina, 2017. Maaf, tetapi Anda masih memiliki satu minggu lagi untuk berlatih."
+  },
+  {
+    "image_id": 823310179198533632,
+    "text": "¡ wacky ! rt : shoot fav : pass",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Lucu sekali! Balasan: Posting. Favorit: Lolos."
+  },
+  {
+    "image_id": 819686845416144896,
+    "text": "961 followers away and we are giving 2 of these away now so # rt # follow to be enter",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Masih tersisa 961 pengikut lagi, dan kami akan memberikan 2 hadiah sekarang. Gunakan fitur *retweet* dan ikuti akun kami untuk berpartisipasi."
+  },
+  {
+    "image_id": 818603872021348353,
+    "text": "hank jr . was honored to join <user> at the # smokymountainsrise telethon last month to raise money for the gatlinburg fire victims .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hank Jr. merasa terhormat dapat bergabung dengan <user> dalam acara penggalangan dana #SmokyMountainsRise bulan lalu, untuk membantu para korban kebakaran di Gatlinburg."
+  },
+  {
+    "image_id": 894296108918243328,
+    "text": "changing back into my ugly uniform for <num> more hours . so excited .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kembali mengenakan seragam yang kurang saya sukai ini selama <num> jam lagi. Sungguh menyenangkan."
+  },
+  {
+    "image_id": 820050427895050240,
+    "text": "“ denmark isn 't ready for a queen like me . ” # theprinceandme starts now , east coast !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Denmark belum siap untuk seorang ratu seperti saya.\" #ThePrinceAndMe dimulai sekarang, di wilayah pesisir timur!"
+  },
+  {
+    "image_id": 715310141998899200,
+    "text": "sure , harry , just wing it . if this is true , what the heck man ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tentu, Harry, lakukan saja seadanya. Kalau ini benar, apa-apaan ini?"
+  },
+  {
+    "image_id": 818241630662594560,
+    "text": "her face im",
+    "label": 0,
+    "split": "test",
+    "text_translated": "wajahnya."
+  },
+  {
+    "image_id": 893445166866059264,
+    "text": "this guy calling human beings irrelevant nobodies what makes a somebody <user> ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Orang ini menyebut manusia sebagai individu yang tidak penting. Apa yang membuat seseorang menjadi penting?"
+  },
+  {
+    "image_id": 817520698616782848,
+    "text": "thanks to <user> for my black on black i 'll be shooting this weekend check them out , their chairs r awesome",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Terima kasih kepada <user> atas produk berwarna hitam yang saya beli. Saya akan menggunakannya akhir pekan ini. Silakan lihat produk mereka, kursi-kursi mereka sangat bagus."
+  },
+  {
+    "image_id": 905016084209782784,
+    "text": "look at me . i put chia seeds in my daughter 's school lunch . that makes me a great parent .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Lihatlah aku. Saya memasukkan biji chia ke dalam bekal makan siang putri saya untuk sekolah. Itu membuat saya menjadi orang tua yang hebat."
+  },
+  {
+    "image_id": 723308938091884544,
+    "text": "good thing <user> is defending the good guys from the bad guys right .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sungguh bagus bahwa <user> membela pihak yang benar dari pihak yang salah, bukan?"
+  },
+  {
+    "image_id": 839856340755496960,
+    "text": "toronto women 's fashion week bound ! i don 't think i packed enough . <user> <user> <user> <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Menuju Pekan Mode Wanita Toronto! Sepertinya saya belum cukup menyiapkan pakaian."
+  },
+  {
+    "image_id": 696008220578414596,
+    "text": "tweeting with stick fingers , stick hands and stick arms is a peice of cake ... really .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Mengetik dengan jari-jari, tangan, dan lengan yang terbuat dari stik sangatlah mudah... sungguh."
+  },
+  {
+    "image_id": 829310836464353280,
+    "text": "what even . climate change is a hoax though ! ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apa lagi? Perubahan iklim itu cuma rekayasa saja!"
+  },
+  {
+    "image_id": 815709171995684864,
+    "text": "top 5 ! ! ! ( no order ) i have decided to announce my commitment on national signing day",
+    "label": 0,
+    "split": "test",
+    "text_translated": "5 besar! (tanpa urutan tertentu) Saya telah memutuskan untuk mengumumkan komitmen saya pada hari penandatanganan nasional."
+  },
+  {
+    "image_id": 820056451641004033,
+    "text": "to the finnish fan who sent me this , thank you .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kepada penggemar Finlandia yang mengirimkan ini kepada saya, terima kasih."
+  },
+  {
+    "image_id": 821868425127411713,
+    "text": "# taeyang # youngbae reply on ins <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "# Taeyang # Youngbae membalas di Instagram <pengguna>."
+  },
+  {
+    "image_id": 909025478672998400,
+    "text": "at least <user> doesnt fear a con artist who 4years laundered russian $ thru german banks then used the $ to hijack the <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "setidaknya, <user> tidak takut pada seorang penipu yang selama 4 tahun mencuci uang asal Rusia melalui bank-bank Jerman, kemudian menggunakan uang tersebut untuk mengendalikan <user>."
+  },
+  {
+    "image_id": 842623742484205568,
+    "text": "your neighbours when you bring a girl at your home ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "tetangga Anda ketika Anda membawa seorang perempuan ke rumah Anda!"
+  },
+  {
+    "image_id": 818237810943623168,
+    "text": "since when is a group of bunnies called a fluffle ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sejak kapan sekelompok kelinci disebut \"fluffle\"?"
+  },
+  {
+    "image_id": 817516946040254464,
+    "text": "glo up lol",
+    "label": 0,
+    "split": "test",
+    "text_translated": "tampilan yang semakin menarik."
+  },
+  {
+    "image_id": 821506748624289794,
+    "text": "a cool thing is after dropping out as a tiny baby i 'm very slowly finishing my history degree . cooler : there 's a fireplace at the library",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hal yang menarik adalah, setelah kehilangan orang tua saat masih sangat kecil, saya perlahan-lahan menyelesaikan gelar sarjana sejarah saya. Lebih menarik lagi: ada perapian di perpustakaan."
+  },
+  {
+    "image_id": 820052841268187140,
+    "text": "you ever notice trump supporters love to just call us names . especially \" snowflake \" or \" snowflakes \" may i remind them .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Pernahkah Anda memperhatikan bahwa pendukung Trump seringkali hanya suka memberi kita julukan yang merendahkan? Terutama julukan seperti \"orang lemah\" atau \"orang-orang lemah.\" Saya ingin mengingatkan mereka."
+  },
+  {
+    "image_id": 730451262777524224,
+    "text": "yup . by life_of_the_unknown 1",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ya. oleh life_of_the_unknown 1."
+  },
+  {
+    "image_id": 819693299703365636,
+    "text": "i 'm crying",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya menangis."
+  },
+  {
+    "image_id": 841783464969961472,
+    "text": "here 's a typical conversation between my mom and i . . she is so modest ! ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Berikut adalah percakapan biasa antara ibu saya dan saya. Ibu saya sangat rendah hati!"
+  },
+  {
+    "image_id": 914194837083222016,
+    "text": "when you eat a square meal ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "ketika Anda makan makanan yang lengkap dan bergizi..."
+  },
+  {
+    "image_id": 816795175720718336,
+    "text": "all i wanna do is teach the youth , watch them grow , and succeed",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Yang ingin saya lakukan hanyalah mengajar generasi muda, menyaksikan mereka tumbuh, dan meraih kesuksesan."
+  },
+  {
+    "image_id": 725395755855278081,
+    "text": "# wednesdaywisdom why love one and abuse the other ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# semangatrabu Mengapa mencintai satu dan menyakiti yang lain?"
+  },
+  {
+    "image_id": 838007434463612929,
+    "text": "this would be our dream diet !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ini akan menjadi pola makan impian kami!"
+  },
+  {
+    "image_id": 822948984847298560,
+    "text": "it 's my birthday ( tomorrow ) and i 'll post a selfie on the beach if i want to .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Besok adalah hari ulang tahun saya, dan saya akan mengunggah foto diri saya di pantai jika saya mau."
+  },
+  {
+    "image_id": 822953427261157376,
+    "text": "texas : 5:30 pm : vs 5:32 pm :",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Texas: 17:30: vs 17:32:"
+  },
+  {
+    "image_id": 875103880387805184,
+    "text": "i dont know the meaning of procrastination . i really should start my cosplays .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya tidak tahu apa itu menunda-nunda. Sebenarnya, saya harus mulai membuat kostum cosplay saya."
+  },
+  {
+    "image_id": 918368223229292544,
+    "text": "rt itswillyferrell : when people think they 've got me all figured out .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "ketika orang berpikir mereka sudah sepenuhnya memahami saya."
+  },
+  {
+    "image_id": 902016654288326656,
+    "text": "it 's strange ... i don 't ever remember seeing these signs of hate on the mainstream media anywhere ... did i miss this ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Aneh sekali... Saya tidak pernah ingat melihat tanda-tanda kebencian seperti ini di media massa manapun... Apakah saya melewatkan sesuatu?"
+  },
+  {
+    "image_id": 820050428775829505,
+    "text": "if 'the people ' can vote us out of the eu , how come nobody listens when they say # huntmustgo ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Jika \"rakyat\" dapat memilih kita untuk keluar dari Uni Eropa, mengapa tidak ada yang mendengarkan ketika mereka mengatakan #huntmustgo?"
+  },
+  {
+    "image_id": 871707103219654656,
+    "text": "boring monday killing your mood ? then all you need is lo ..... !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Senin yang membosankan merusak suasana hati Anda? Kalau begitu, Anda membutuhkan lo...!"
+  },
+  {
+    "image_id": 819689484849713152,
+    "text": ". <user> steve harvey 's head is so big , when he takes a selfie , it 's called a group photo .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kepala Steve Harvey begitu besar, sehingga ketika dia mengambil foto selfie, itu disebut sebagai foto kelompok."
+  },
+  {
+    "image_id": 688833309502222336,
+    "text": "i can 't believe <user> would ever doubt me on an nfl bet . it was clear early on this was a lock",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya tidak percaya bahwa <user> akan pernah meragukan saya dalam taruhan NFL. Sejak awal, sudah jelas bahwa ini pasti menang."
+  },
+  {
+    "image_id": 721679848599633921,
+    "text": "\" excess is a word made up by poor people \" - rob , defending his liberal use of peanut butter on his waffles",
+    "label": 1,
+    "split": "test",
+    "text_translated": "\"Berlebihan adalah kata yang diciptakan oleh orang-orang yang kurang mampu.\" – kata Rob, membela penggunaan selai kacang yang banyak dalam wafelnya."
+  },
+  {
+    "image_id": 822223288369868801,
+    "text": "super male vitality before and after",
+    "label": 0,
+    "split": "test",
+    "text_translated": "vitalitas pria prima: sebelum dan sesudah."
+  },
+  {
+    "image_id": 896506268612935680,
+    "text": "had the pleasure of catching <num> bonnet head sharks today . <user> <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sungguh menyenangkan bisa melihat beberapa ikan hiu bonnethead hari ini. <user> <user>"
+  },
+  {
+    "image_id": 819327697008496640,
+    "text": "can 't help falling inlove soon in cinemas ! <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Segera di bioskop! Jangan lewatkan \"Can't Help Falling in Love.\""
+  },
+  {
+    "image_id": 858118006777556992,
+    "text": "wow <user> love the marketing ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Wow, saya suka sekali strategi pemasarannya..."
+  },
+  {
+    "image_id": 819691140387577856,
+    "text": "arron banks . married to a russian . wealth from jewel mines in africa . educated in s . africa funded this ..",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Arron Banks, menikahi seorang wanita asal Rusia. Kekayaannya berasal dari pertambangan permata di Afrika. Ia mendapatkan pendidikan di Afrika Selatan dan mendanai proyek ini…"
+  },
+  {
+    "image_id": 725831990763638784,
+    "text": "i have read articles on climate change & never saw the claim that it 's really caused by # globalcapitalism ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya telah membaca artikel tentang perubahan iklim dan tidak pernah menemukan klaim bahwa perubahan tersebut benar-benar disebabkan oleh #kapitalisme global."
+  },
+  {
+    "image_id": 823309881478356995,
+    "text": "rt if you have the steelers beating the patriots .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Retweet jika Anda mendukung Pittsburgh Steelers mengalahkan New England Patriots."
+  },
+  {
+    "image_id": 819329194438049792,
+    "text": "everybody having kids and getting married . meanwhile i 'm just chilling like .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Semua orang sepertinya sedang punya anak dan menikah. Sementara saya, hanya bersantai saja."
+  },
+  {
+    "image_id": 822227430538670081,
+    "text": "when the concert 's so bad , even your dad becoming president isn 't enough to save you from the embarrassment of being seen there",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika konsernya sangat buruk, bahkan jika ayahmu menjadi presiden, itu pun tidak akan cukup untuk menyelamatkanmu dari rasa malu karena terlihat berada di sana."
+  },
+  {
+    "image_id": 819327649181028357,
+    "text": "hxh image of the day :",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Gambar unggulan hari ini:"
+  },
+  {
+    "image_id": 820052602754895875,
+    "text": "\" you aint gotta wait mike \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Kamu tidak perlu menunggu, Mike.\""
+  },
+  {
+    "image_id": 816665786504781824,
+    "text": "smiley",
+    "label": 1,
+    "split": "test",
+    "text_translated": "senyum."
+  },
+  {
+    "image_id": 820419432660860928,
+    "text": "it here .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "di sini."
+  },
+  {
+    "image_id": 819693448261500928,
+    "text": "manchester united and england midfielder jesse lingard has agreed a new £ 4.5 m-a-year contract",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Gelandang Manchester United dan timnas Inggris, Jesse Lingard, telah menyetujui kontrak baru dengan nilai £4,5 juta per tahun."
+  },
+  {
+    "image_id": 819691174101327872,
+    "text": "we ’ re excited to hold a q & a session with <user> tomorrow courtesy of <user> ! submit your questions by using askabluejay !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Kami sangat senang menyelenggarakan sesi tanya jawab bersama <user> besok, berkat dukungan dari <user>! Kirimkan pertanyaan Anda menggunakan fitur \"askabluejay\"."
+  },
+  {
+    "image_id": 818607943453179904,
+    "text": "the shift ... it 's happening ! been waiting ( impatiently ) . am ready . interview w / <user> of <user> by <user> . here we go",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Perubahan itu... sedang terjadi! Saya sudah menunggu (dengan tidak sabar). Saya siap. Wawancara dengan <user> dari <user> oleh <user>. Mari kita mulai."
+  },
+  {
+    "image_id": 823319224923852801,
+    "text": "melanie martinez speaking about her upcoming album",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Melanie Martinez berbicara tentang album barunya yang akan datang."
+  },
+  {
+    "image_id": 818607120933421056,
+    "text": "a list of things you can do to make urself a happier person starting now",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berikut adalah beberapa hal yang dapat Anda lakukan untuk menjadi pribadi yang lebih bahagia, mulai sekarang."
+  },
+  {
+    "image_id": 709126873645711360,
+    "text": "there 's nothing better than doing homework with a ten year old on a sunday night ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tidak ada yang lebih menyenangkan daripada mengerjakan pekerjaan rumah bersama anak berusia sepuluh tahun di malam Minggu."
+  },
+  {
+    "image_id": 822952139068768256,
+    "text": "this meeting with del amitri remains my favourite paul elliott photograph .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Pertemuan dengan Del Amitri ini tetap menjadi foto Paul Elliott favorit saya."
+  },
+  {
+    "image_id": 823314560073482240,
+    "text": "“ the saddest aspect of life right now is that # science gathers knowledge faster than # society gathers # wisdom . ” - asimov",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Aspek paling menyedihkan dari kehidupan saat ini adalah bahwa ilmu pengetahuan berkembang lebih cepat daripada masyarakat mengembangkan kebijaksanaan.\" - Asimov"
+  },
+  {
+    "image_id": 832320772295237636,
+    "text": "stop breathing ! p . s . : this reminds of a lot of health advice i see nowadays .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hentikan bernapas!\nP.S.: Ini mengingatkan saya pada banyak sekali saran kesehatan yang saya lihat belakangan ini."
+  },
+  {
+    "image_id": 820049343344361473,
+    "text": "prove your basketball iq on the 100 level concourse tonight . the # rightcombination can unlock a trip to <user> all-star saturday night !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Buktikan kemampuan bola basket Anda di area koridor lantai 100 malam ini. Kombinasi yang tepat dapat memberikan Anda kesempatan untuk mengikuti acara Sabtu malam *All-Star*!"
+  },
+  {
+    "image_id": 835922140427874305,
+    "text": "my saturday was going pretty fine , until i just realized its sunday evening .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sabtu saya berjalan cukup baik, sampai saya baru menyadari bahwa sekarang sudah sore hari Minggu."
+  },
+  {
+    "image_id": 927482573919367168,
+    "text": "<user> ladies and gentlemen . what a swell guy he is ....",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hadirin sekalian, sungguh orang yang luar biasa."
+  },
+  {
+    "image_id": 823313994572333058,
+    "text": "<user> my son drew a picture you might like ... i really like the belt .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Putra saya menggambar sebuah gambar yang mungkin Anda sukai... Saya sangat menyukai ikat pinggangnya."
+  },
+  {
+    "image_id": 822226883601309696,
+    "text": "trump at the",
+    "label": 1,
+    "split": "test",
+    "text_translated": "trump di"
+  },
+  {
+    "image_id": 825681794322231296,
+    "text": "way to go russia .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Semoga sukses untuk Rusia."
+  },
+  {
+    "image_id": 820056814289031168,
+    "text": "the older i get the more selective i am of who is in my tribe . i would rather have four quarters than a hundred pennies .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Semakin bertambah usia saya, semakin selektif saya dalam memilih orang-orang yang menjadi bagian dari lingkaran pertemanan saya. Saya lebih memilih memiliki empat orang sahabat dekat daripada seratus kenalan biasa."
+  },
+  {
+    "image_id": 818608155995283457,
+    "text": "retweet this if you 're rollin ' with <user> !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Retweet ini jika Anda mendukung <user>!"
+  },
+  {
+    "image_id": 822590393678176258,
+    "text": "warmin ' up for # chiatatl !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Persiapan untuk #chiatatl!"
+  },
+  {
+    "image_id": 713934461159804929,
+    "text": "some brutal honesty right here . …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Berikut adalah beberapa kejujuran yang blak-blakan. …"
+  },
+  {
+    "image_id": 820409686004535296,
+    "text": "they",
+    "label": 0,
+    "split": "test",
+    "text_translated": "mereka."
+  },
+  {
+    "image_id": 715638264795779072,
+    "text": "waaaaaaay too much .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Jauh, jauh terlalu banyak."
+  },
+  {
+    "image_id": 873243814705721345,
+    "text": "well i 'm going to live forever !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya akan hidup selamanya!"
+  },
+  {
+    "image_id": 820419575305080832,
+    "text": "congrats to our top gun placers , seniors max wright ( champ at 195 ) and carter davidson (8 th at 182 ) !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat kepada para atlet terbaik kita, Max Wright (juara pada kelas 195) dan Carter Davidson (peringkat ke-8 pada kelas 182)!"
+  },
+  {
+    "image_id": 820411462766071808,
+    "text": "say it loud ! ! !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Katakan dengan lantang!"
+  },
+  {
+    "image_id": 780915816887975936,
+    "text": "apparently we have a potato shortage in rotherham this is what i received in a large fries box tonight <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tampaknya, terjadi kekurangan kentang di Rotherham. Ini yang saya dapatkan dalam kotak kentang goreng besar yang saya beli malam ini."
+  },
+  {
+    "image_id": 820056579235905536,
+    "text": "you know you 've lived in california too long when this sandwich sounds delicious to you .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Anda mungkin sudah terlalu lama tinggal di California ketika sandwich sederhana seperti itu terdengar sangat lezat bagi Anda."
+  },
+  {
+    "image_id": 824416926197837824,
+    "text": "# meme # memes # memesdaily # lol # lmaoo # comedy # politics # news # event # events what keeps sean sphincter awake at night ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# meme # meme # memeindonesia # lucu # ngakak # komedi # politik # berita # acara # acara apa yang membuat Sean tidak bisa tidur di malam hari?"
+  },
+  {
+    "image_id": 901231039049121793,
+    "text": "# qldpol take the pledge for # jobs4qld & a",
+    "label": 1,
+    "split": "test",
+    "text_translated": "# qldpol Ikuti janji untuk #pekerjaanuntukqld & masa depan."
+  },
+  {
+    "image_id": 820782465144983552,
+    "text": "are you ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Apakah Anda?"
+  },
+  {
+    "image_id": 833702167387185152,
+    "text": "mondaymotivation some things are just worthmytime but looking this up was ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Senin semangat. Beberapa hal memang layak untuk saya luangkan waktu, tetapi mencari informasi ini ternyata..."
+  },
+  {
+    "image_id": 818241240118374400,
+    "text": "\" rogue one \" star <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "\"Rogue One\" bintang <user>."
+  },
+  {
+    "image_id": 823314477202477058,
+    "text": "i just wanted to check updates on school tomorrow",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya hanya ingin memeriksa informasi terbaru mengenai kegiatan sekolah besok."
+  },
+  {
+    "image_id": 819325018702286848,
+    "text": "this is every old mans facebook profile picture and it 's always uploaded 9 times",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ini adalah foto profil Facebook yang sering digunakan oleh para pria lanjut usia, dan foto tersebut selalu diunggah sebanyak sembilan kali."
+  },
+  {
+    "image_id": 819329411463811073,
+    "text": "i 'm convinced <user> 's new adorable pupper pharoah is rocking ducklips how would you rate this egyptian jewel <user> ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya yakin anjing peliharaan baru <user>, Pharaoh, terlihat sangat menggemaskan dengan ekspresi bibirnya yang unik. Bagaimana menurut Anda tentang \"permata\" Mesir ini, <user>?"
+  },
+  {
+    "image_id": 822592890807472128,
+    "text": "everything .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "semuanya."
+  },
+  {
+    "image_id": 821506769616781313,
+    "text": "hugh dancy aka dr . flynn in # fiftyshadesdarker will be on <user> next monday ! let 's hope <user> asks about darker !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hugh Dancy, yang memerankan Dr. Flynn dalam film \"Fifty Shades Darker,\" akan hadir di acara <user> pada hari Senin depan! Semoga saja <user> menanyakan tentang film \"Darker.\""
+  },
+  {
+    "image_id": 908827415555719168,
+    "text": "we shall remain optimistic then <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kita tetap akan bersikap optimis."
+  },
+  {
+    "image_id": 820413384088752128,
+    "text": "one kit , one dream , 2 masterpieces",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Satu set, satu impian, dua karya agung."
+  },
+  {
+    "image_id": 849482641225240576,
+    "text": "<user> words of # hilarious encouragement",
+    "label": 1,
+    "split": "test",
+    "text_translated": "kata-kata penyemangat yang lucu."
+  },
+  {
+    "image_id": 820052872423305216,
+    "text": "* record scratch * * freeze frame * yup , that 's me . you 're probably wondering how i ended up in this situation .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "* suara gesekan * * gambar membeku * Ya, itu saya. Kalian mungkin bertanya-tanya bagaimana saya bisa sampai dalam situasi ini."
+  },
+  {
+    "image_id": 916351016660078594,
+    "text": "our members clearly have a terrible time in our space # dowhatyoulove we 're all smiles over here ! <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Anggota kami tampaknya mengalami kesulitan di ruang kami. #lakukanapa yang Anda sukai. Kami semua di sini sangat bahagia! <user>"
+  },
+  {
+    "image_id": 928616105643352065,
+    "text": "our country has .. isro ..",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Negara kita memiliki... ISRO..."
+  },
+  {
+    "image_id": 818608086701092864,
+    "text": "these should brighten your day",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Semoga ini bisa membuat hari Anda lebih cerah."
+  },
+  {
+    "image_id": 820052770170568704,
+    "text": "if you 've not heard about this yet , where have you been ? pics by <user> <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Jika Anda belum mengetahui hal ini, apa yang sudah Anda lewatkan? Foto oleh <user> <user>."
+  },
+  {
+    "image_id": 892551658487631873,
+    "text": "it 's the insensitive strikeouts at suntrust park .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ini adalah perilaku yang tidak sopan yang terjadi di Stadion Suntrust."
+  },
+  {
+    "image_id": 820057591837560832,
+    "text": "i 'm at they neck ain 't no lettin up",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Saya sedang dalam masalah besar, dan saya tidak akan menyerah."
+  },
+  {
+    "image_id": 936026263558545409,
+    "text": "gone but not forgotten",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sudah tiada, tetapi tidak dilupakan."
+  },
+  {
+    "image_id": 702345480924041217,
+    "text": "it is a shame that <user> never kept up his twitter account . he had such pleasant views",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sayang sekali <user> tidak lagi aktif menggunakan akun Twitter-nya. Dia memiliki pandangan yang sangat menarik."
+  },
+  {
+    "image_id": 725257959077453824,
+    "text": "ha ha . like if you laughed this scene . …",
+    "label": 1,
+    "split": "test",
+    "text_translated": "haha. Beri tanda suka jika Anda tertawa pada adegan ini…"
+  },
+  {
+    "image_id": 925034111747665920,
+    "text": "* shrugs * happy new week darlings",
+    "label": 0,
+    "split": "test",
+    "text_translated": "* mengangkat bahu\n* minggu baru yang menyenangkan, sayang-sayang."
+  },
+  {
+    "image_id": 839115018054549504,
+    "text": "so you came up with # thehungergames for pharmaceuticals ? this will end well ..... ( )",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Jadi, Anda menciptakan tagar #thehungergames untuk industri farmasi? Ini sepertinya akan menjadi masalah besar... (...)"
+  },
+  {
+    "image_id": 906334899191160832,
+    "text": "<user> ughhhhh . another raid medal . just what i always wanted .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ughhhhh... medali serangan lagi. Persis seperti yang selalu saya inginkan."
+  },
+  {
+    "image_id": 822227403401494528,
+    "text": "save the date registration will be ready early february !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Simpan tanggalnya! Pendaftaran akan segera dibuka pada awal Februari."
+  },
+  {
+    "image_id": 819691384936378369,
+    "text": "cas coming up ;) can you guess who this is ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Acaran seru akan datang ;) Bisakah kamu menebak siapa ini?"
+  },
+  {
+    "image_id": 815985320088899584,
+    "text": "stop bashing jed york ; he has worked hard to be in the position he is in .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Berhenti mengkritik Jed York; dia telah bekerja keras untuk mencapai posisinya saat ini."
+  },
+  {
+    "image_id": 821503994589835264,
+    "text": "stop playing me how bou dat",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berhenti mempermainkan saya. Bagaimana menurutmu soal itu?"
+  },
+  {
+    "image_id": 820400898702589952,
+    "text": "<user> because making light of drug use during an opioidepidemic is always great marketing .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Karena meremehkan penggunaan obat-obatan terlarang, terutama di tengah situasi epidemi opioid, selalu menjadi strategi pemasaran yang buruk."
+  },
+  {
+    "image_id": 900990068260835328,
+    "text": ", because beating the crap out of people is illegal",
+    "label": 1,
+    "split": "test",
+    "text_translated": "karena memukuli orang adalah tindakan yang melanggar hukum."
+  },
+  {
+    "image_id": 823310253005619201,
+    "text": "so beautiful . will also cause me to go broke buying them all !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Sungguh indah. Tapi, saya khawatir akan kehabisan uang jika membeli semuanya!"
+  },
+  {
+    "image_id": 923313011418451970,
+    "text": "another night having to grind out belgian beer styles , studying for certified <user> . bloody nightmare",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Malam lagi harus berusaha keras menciptakan bir dengan gaya Belgia, sambil belajar untuk sertifikasi [user]. Sungguh mimpi buruk."
+  },
+  {
+    "image_id": 820782504626061312,
+    "text": "icyy ...",
+    "label": 0,
+    "split": "test",
+    "text_translated": "icyy..."
+  },
+  {
+    "image_id": 827259125591482368,
+    "text": "<user> presidenttrump this man is nothing but a pig . i 'm sure the # royalfamily would be thrilled to host him . presidential ? no grr",
+    "label": 1,
+    "split": "test",
+    "text_translated": "presiden trump, orang ini hanyalah seorang yang buruk. Saya yakin keluarga kerajaan akan sangat senang menyambutnya. Seorang presiden? Tidak, sama sekali tidak."
+  },
+  {
+    "image_id": 819686546676838400,
+    "text": ". <user> , to cnn last night : no , the president-elect wasn 't briefed on russia allegations <user> , tonight : well actually",
+    "label": 1,
+    "split": "test",
+    "text_translated": ". <user>, kepada CNN tadi malam: tidak, presiden terpilih belum mendapatkan informasi mengenai tuduhan terkait Rusia. <user>, malam ini: sebenarnya..."
+  },
+  {
+    "image_id": 822222750219649024,
+    "text": "of hunter renfroe ( <user> ) switches to number 10 . last worn by inf alexei ram írez in 2016 .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hunter Renfroe (pengguna) sekarang menggunakan nomor punggung 10. Nomor ini terakhir dipakai oleh pemain Alexei Ramírez pada tahun 2016."
+  },
+  {
+    "image_id": 840225661117706240,
+    "text": "when you 're on high position , you can say such a things and still be legit",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Ketika Anda berada di posisi tinggi, Anda bisa mengatakan hal-hal seperti itu dan tetap dianggap wajar."
+  },
+  {
+    "image_id": 717435878512025600,
+    "text": "prenatal education . how can you expect anything of a child who missed getting in-womb audio lessons ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "pendidikan pranatal. Bagaimana Anda bisa mengharapkan apa pun dari seorang anak yang tidak mendapatkan pelajaran audio saat masih berada di dalam kandungan?"
+  },
+  {
+    "image_id": 822229009681580032,
+    "text": "[ photo ] 170119 # vixx attended @ 26th seoul music awards cr ) as tagged",
+    "label": 0,
+    "split": "test",
+    "text_translated": "[foto] 170119 # Vixx menghadiri acara Seoul Music Awards ke-26. Sumber: seperti yang tertera."
+  },
+  {
+    "image_id": 823310858692468737,
+    "text": "almost time",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Hampir tiba waktunya."
+  },
+  {
+    "image_id": 820052661680668676,
+    "text": "he 's taking this so seriously toolike he actually did something",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Dia menganggap ini sangat serius, seolah-olah dia benar-benar melakukan sesuatu."
+  },
+  {
+    "image_id": 820048995099770880,
+    "text": "lmao rt <user> : these are 2 males rt <user> : dating black women vs dating white women",
+    "label": 1,
+    "split": "test",
+    "text_translated": "lmao. @[nama pengguna]: Ini dua pria. @[nama pengguna]: Pacaran dengan wanita kulit hitam vs. pacaran dengan wanita kulit putih."
+  },
+  {
+    "image_id": 848557719955034112,
+    "text": "what can i eat from the easter candy aisle ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Apa saja yang bisa saya beli dari bagian permen Paskah?"
+  },
+  {
+    "image_id": 822225033552658432,
+    "text": "at midnight tonight , joe and i will eat birthday oreos in honor of our abby",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Malam ini, tepat pukul tengah malam, Joe dan saya akan menikmati kue Oreo untuk merayakan ulang tahun Abby."
+  },
+  {
+    "image_id": 829771850620215297,
+    "text": "yay ! south africa made international news again ... well done to the leaders of our country . why can 't we just have order ?",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Hore! Afrika Selatan kembali menjadi berita internasional... Selamat untuk para pemimpin negara kita. Mengapa kita tidak bisa saja menjaga ketertiban?"
+  },
+  {
+    "image_id": 907358116567814145,
+    "text": "i propose we all have long , loud conversations on our phones while riding the t . no one will mind ! <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya sarankan kita semua bercakap-cakap dengan suara keras melalui telepon saat berada di dalam kereta. Tidak ada yang akan keberatan!"
+  },
+  {
+    "image_id": 823318248481374208,
+    "text": "all i can say is that i will never forget this quote by julian \" dont let scrubs rock my jersey \"",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Satu-satunya yang bisa saya katakan adalah saya tidak akan pernah melupakan kutipan dari Julian: \"Jangan biarkan pemain yang kurang berkualitas merusak jersey saya.\""
+  },
+  {
+    "image_id": 820055342549762048,
+    "text": "great use of props from <user> !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Penggunaan properti yang sangat baik dari <user>!"
+  },
+  {
+    "image_id": 919674045276278789,
+    "text": "* gasp ! * chihiro is actually not a little brother , but a little sister ? ! i 'm so surprised !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "* *desis! * Chihiro ternyata bukan adik laki-laki, melainkan adik perempuan? Sungguh mengejutkan!"
+  },
+  {
+    "image_id": 697013421414289408,
+    "text": "level - lonely i am so lonely ... goes smarty pants",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Tingkat – kesepian. Saya sangat kesepian… pergi, sok pintar."
+  },
+  {
+    "image_id": 818245804276252672,
+    "text": "excited to say i am committed to the air force academy # boltbrotherhood gtg",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Dengan senang hati saya ingin mengumumkan bahwa saya telah diterima di Akademi Angkatan Udara. #boltbrotherhood, pertemuan sesama taruna."
+  },
+  {
+    "image_id": 820417002544054273,
+    "text": "shook .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "terguncang."
+  },
+  {
+    "image_id": 822222229425491972,
+    "text": "rest in peace to miguel ferrer , a man unafraid to take on dick jones . it didn 't end well , but the courage won 't be forgotten .",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Beristirahatlah dengan tenang, Miguel Ferrer. Seorang pria yang tidak gentar menghadapi Dick Jones. Segalanya tidak berakhir dengan baik, tetapi keberaniannya tidak akan terlupakan."
+  },
+  {
+    "image_id": 817520327672537088,
+    "text": "why did isis know ftl shooters name before released ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Mengapa ISIS mengetahui nama penembak yang diduga pelaku serangan jauh sebelum pengumuman resmi?"
+  },
+  {
+    "image_id": 824514528109006848,
+    "text": "motivating headline for pakistan on # india # republicday # rday2017 by indian newspaper . well done <user>",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Judul berita yang memotivasi tentang Pakistan, terkait dengan perayaan Hari Republik India, #India, #HariRepublik, #Rday2017, yang dimuat di surat kabar India. Kerja bagus, <user>."
+  },
+  {
+    "image_id": 820052730173591552,
+    "text": "thoughts ? ?",
+    "label": 0,
+    "split": "test",
+    "text_translated": "pendapat Anda?"
+  },
+  {
+    "image_id": 728641891726548992,
+    "text": "well you 're right on the ball , aren 't you jj ... they were never together , you effing idiots ! !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Benar sekali, kamu sangat tepat, JJ... mereka memang tidak pernah bersama, kalian ini bodoh!"
+  },
+  {
+    "image_id": 819329516480897024,
+    "text": "the kim kardashian of stethoscopes",
+    "label": 0,
+    "split": "test",
+    "text_translated": "alat pendengar medis yang sangat populer."
+  },
+  {
+    "image_id": 823315070423797760,
+    "text": "up next - last match of the day # eleaguemajor rt for <user> like of <user> reply if you love cats <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Berikutnya – pertandingan terakhir hari ini. #eleaguemajor Bagikan jika Anda mendukung <user>, berikan suka jika Anda mendukung <user>, balas jika Anda menyukai kucing <user>."
+  },
+  {
+    "image_id": 819326445260447745,
+    "text": "when you pray for a good 2017 but you remember all your sins in 2016",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Ketika Anda berdoa untuk tahun 2017 yang baik, tetapi Anda teringat semua kesalahan yang Anda lakukan pada tahun 2016."
+  },
+  {
+    "image_id": 820049460893990912,
+    "text": "congrats <user> for signing to play softball <user> ! your oiler family is proud of you !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Selamat, <user>, atas kesepakatanmu untuk bermain softball! Keluarga Oiler bangga padamu!"
+  },
+  {
+    "image_id": 719932993725280256,
+    "text": "pics to my boss i texted as proof i 'm doing my job .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya mengirimkan beberapa foto kepada atasan saya melalui pesan teks sebagai bukti bahwa saya sedang melaksanakan tugas."
+  },
+  {
+    "image_id": 822222831157211136,
+    "text": "president obama you have broke barriers . i 've enjoyed 8 years of seeing you in office . thank you <user>",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Presiden Obama, Anda telah memecah berbagai batasan. Saya telah menikmati 8 tahun menyaksikan Anda menjabat. Terima kasih."
+  },
+  {
+    "image_id": 822947813633982466,
+    "text": "salaria kay , of ohio , was a nurse for anti-fascist forces during the spanish civil war",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Salaria Kay, dari Ohio, adalah seorang perawat yang membantu kelompok anti-fasisme selama Perang Saudara Spanyol."
+  },
+  {
+    "image_id": 845171071674281984,
+    "text": "food for thought !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "bahan untuk direnungkan!"
+  },
+  {
+    "image_id": 685941579341664257,
+    "text": "i better dump my $ aapl now . ( below $ 100 for sure )",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sebaiknya saya jual saham AAPL saya sekarang. (Pastinya di bawah $100)."
+  },
+  {
+    "image_id": 819694548989394944,
+    "text": "received an offer from the university of west texas a & m",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Menerima tawaran dari Universitas West Texas A&M."
+  },
+  {
+    "image_id": 820411283983908865,
+    "text": "image : defender samuel umtiti has featured in 9 la liga games and barcelona have won every single one of those games . [ sport ]",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Bek Samuel Umtiti telah bermain dalam 9 pertandingan La Liga, dan Barcelona memenangkan setiap pertandingan tersebut. [Olahraga]"
+  },
+  {
+    "image_id": 821504279978582018,
+    "text": "any true prophet will acknowledge the man who pioneered the era of forensic prophecy . they call him snr major .. i call him dad",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Seorang nabi sejati akan mengakui pria yang mempelopori era ramalan forensik. Mereka menyebutnya SNR Major… Saya menyebutnya ayah."
+  },
+  {
+    "image_id": 920112738856251392,
+    "text": "i call this the \" might make another sandwich might not \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Saya menyebut ini sebagai \"Mungkin akan membuat sandwich lagi, mungkin juga tidak.\""
+  },
+  {
+    "image_id": 937441794303938562,
+    "text": "\" why am i crying in the club rn ? \"",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Kenapa ya aku menangis di klub sekarang?"
+  },
+  {
+    "image_id": 822956198743814144,
+    "text": "17 01 21 lotte fm",
+    "label": 0,
+    "split": "test",
+    "text_translated": "17 01 21 Lotte FM."
+  },
+  {
+    "image_id": 830109351608205312,
+    "text": "woke up to winds so strong it blew over this on my street . made my 400m repeats feel easy today .",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Bangun tidur dan merasakan angin bertiup sangat kencang hingga menerbangkan benda ini di jalan saya. Angin kencang itu membuat latihan lari interval 400 meter saya terasa lebih mudah hari ini."
+  },
+  {
+    "image_id": 823321127758004224,
+    "text": "meme # memes # memesdaily # lol # lmaoo # lmfao # comedy # brutal # dark # politics # vickivohe now that makes more sense ... lol",
+    "label": 1,
+    "split": "test",
+    "text_translated": "meme # meme # memehariini # lol # lmaoo # lmfao # komedi # kejam # kelam # politik # vickivohe. Sekarang, itu masuk akal... lol."
+  },
+  {
+    "image_id": 702037422339710976,
+    "text": "you don 't understand , killing dolphins is so fun ...",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Anda tidak mengerti, membunuh lumba-lumba itu sangat menyenangkan..."
+  },
+  {
+    "image_id": 715681844763566080,
+    "text": "motivation by ? :)",
+    "label": 1,
+    "split": "test",
+    "text_translated": "motivasi oleh siapa? :)"
+  },
+  {
+    "image_id": 910501753178791936,
+    "text": "hearing dated september 28 , 2016 . integrity ensured ! well done !",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Sidang tanggal 28 September 2016. Integritas terjamin! Bagus sekali!"
+  },
+  {
+    "image_id": 821869605081772033,
+    "text": "it might be chilly now , but by summer we 're hoping it 'll be \" sunny with a high of 75 \" when <user> performs at # creation17 !",
+    "label": 0,
+    "split": "test",
+    "text_translated": "Mungkin sekarang terasa agak dingin, tetapi kami berharap di musim panas nanti cuacanya akan \"cerah dengan suhu maksimum 24 derajat Celsius\" ketika <user> tampil di acara #creation17!"
+  },
+  {
+    "image_id": 725024916228165632,
+    "text": "that 's one hell of a way to receive a package <user> <user> .. worthit",
+    "label": 1,
+    "split": "test",
+    "text_translated": "Itu cara yang sangat aneh untuk menerima sebuah paket. <user> <user>... sepadan."
+  }
+]
